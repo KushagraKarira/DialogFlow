@@ -1,0 +1,734 @@
+[
+  {
+    "id": "496a96dd-eed7-4418-944c-3e03ef39ddb1",
+    "data": [
+      {
+        "text": "I want to read the ",
+        "userDefined": false
+      },
+      {
+        "text": "latest",
+        "meta": "@topic",
+        "alias": "category",
+        "userDefined": true
+      },
+      {
+        "text": " news about ",
+        "userDefined": false
+      },
+      {
+        "text": "government tax policy",
+        "meta": "@sys.any",
+        "alias": "keyword",
+        "userDefined": true
+      },
+      {
+        "text": " from the ",
+        "userDefined": false
+      },
+      {
+        "text": "Washington Post",
+        "meta": "@news-source",
+        "alias": "source",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06d46f47-f255-44a2-a197-4b96fc3e8cc6",
+    "data": [
+      {
+        "text": "read ",
+        "userDefined": false
+      },
+      {
+        "text": "top",
+        "meta": "@news-sort",
+        "alias": "sort",
+        "userDefined": true
+      },
+      {
+        "text": " news from ",
+        "userDefined": false
+      },
+      {
+        "text": "BBC",
+        "meta": "@news-source",
+        "alias": "source",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82b91ab0-ace7-4615-a5bd-bae7768c46f6",
+    "data": [
+      {
+        "text": "news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5bdfa8c3-a34d-4823-9624-7db29859d434",
+    "data": [
+      {
+        "text": "what\u0027s going on in ",
+        "userDefined": false
+      },
+      {
+        "text": "financial",
+        "meta": "@topic",
+        "alias": "category",
+        "userDefined": true
+      },
+      {
+        "text": " news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a7a1820-daee-4d80-98bf-88a59cfb672e",
+    "data": [
+      {
+        "text": "read news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96d73625-95ae-408a-8ebd-ad6dc1a96681",
+    "data": [
+      {
+        "text": "give me ",
+        "userDefined": false
+      },
+      {
+        "text": "breaking",
+        "meta": "@news-sort",
+        "alias": "sort",
+        "userDefined": true
+      },
+      {
+        "text": " news from ",
+        "userDefined": false
+      },
+      {
+        "text": "Europe",
+        "meta": "@sys.any",
+        "alias": "keyword",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "855771ac-1b6c-458a-8e20-ae42ed4b9d1c",
+    "data": [
+      {
+        "text": "give me the ",
+        "userDefined": false
+      },
+      {
+        "text": "latest",
+        "meta": "@news-sort",
+        "alias": "sort",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sports",
+        "meta": "@topic",
+        "alias": "category",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "stories",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b29678f3-cb12-4a84-99eb-baba9762e4ca",
+    "data": [
+      {
+        "text": "today\u0027s",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      },
+      {
+        "text": " news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3106269b-d049-4cbe-85fe-825a5afdd1dd",
+    "data": [
+      {
+        "text": "show me news about ",
+        "userDefined": false
+      },
+      {
+        "text": "sports",
+        "meta": "@topic",
+        "alias": "category",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44c7860d-5290-4275-a6c4-480e72a3d34f",
+    "data": [
+      {
+        "text": "CNN",
+        "meta": "@news-source",
+        "alias": "source",
+        "userDefined": false
+      },
+      {
+        "text": " news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6b5e125-f271-4e09-9fb5-25e3628ff295",
+    "data": [
+      {
+        "text": "read me ",
+        "userDefined": false
+      },
+      {
+        "text": "BBC",
+        "meta": "@news-source",
+        "alias": "source",
+        "userDefined": false
+      },
+      {
+        "text": " news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "656d6fe6-bff5-4e45-ad51-ab6de8ae6293",
+    "data": [
+      {
+        "text": "news report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3c4e917-c7c8-44da-b250-e5533a37388d",
+    "data": [
+      {
+        "text": "news update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd369966-54fc-49f8-81c3-b57d5a3f7d3e",
+    "data": [
+      {
+        "text": "fashion",
+        "meta": "@topic",
+        "alias": "category",
+        "userDefined": false
+      },
+      {
+        "text": " news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7019d0ac-be09-4965-8973-f9ff6eda560d",
+    "data": [
+      {
+        "text": "top",
+        "meta": "@news-sort",
+        "alias": "sort",
+        "userDefined": false
+      },
+      {
+        "text": " news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f4fffc9-eccb-4633-9a05-f690cb5def9b",
+    "data": [
+      {
+        "text": "bring me up the ",
+        "userDefined": false
+      },
+      {
+        "text": "hottest",
+        "meta": "@news-sort",
+        "alias": "sort",
+        "userDefined": false
+      },
+      {
+        "text": " news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b89ed83-91d9-4875-90da-10df8adca503",
+    "data": [
+      {
+        "text": "I want to hear the news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a8c06ad-d228-4744-ade1-e90fed6fd1cf",
+    "data": [
+      {
+        "text": "show me headlines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a4bdc6a-f8d8-4e05-9a9c-ee929b1bead6",
+    "data": [
+      {
+        "text": "show me the ",
+        "userDefined": false
+      },
+      {
+        "text": "recent",
+        "meta": "@news-sort",
+        "alias": "sort",
+        "userDefined": false
+      },
+      {
+        "text": " headlines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3c7f269-238e-43ee-9a8a-2e9e6268ad97",
+    "data": [
+      {
+        "text": "read ",
+        "userDefined": false
+      },
+      {
+        "text": "yesterday\u0027s",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " headlines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8cf6c98f-dea2-41e9-80a9-d6098824124e",
+    "data": [
+      {
+        "text": "news about ",
+        "userDefined": false
+      },
+      {
+        "text": "Madonna",
+        "meta": "@sys.any",
+        "alias": "keyword",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2bd6fc2e-ad37-4290-a959-dff7e326eda4",
+    "data": [
+      {
+        "text": "show me the ",
+        "userDefined": false
+      },
+      {
+        "text": "Yahoo",
+        "meta": "@news-source",
+        "alias": "source",
+        "userDefined": false
+      },
+      {
+        "text": " headlines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d31875f-ca9d-4267-88a6-b0766c150499",
+    "data": [
+      {
+        "text": "read the ",
+        "userDefined": false
+      },
+      {
+        "text": "latest",
+        "meta": "@news-sort",
+        "alias": "sort",
+        "userDefined": false
+      },
+      {
+        "text": " news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f599a3c0-f01e-4a14-961f-090c9c7b5f1f",
+    "data": [
+      {
+        "text": "provide me the ",
+        "userDefined": false
+      },
+      {
+        "text": "recent",
+        "meta": "@news-sort",
+        "alias": "sort",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fashion",
+        "meta": "@topic",
+        "alias": "category",
+        "userDefined": false
+      },
+      {
+        "text": " news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08f7fa5d-6cbd-4088-97f7-442d9a39db46",
+    "data": [
+      {
+        "text": "hottest",
+        "meta": "@news-sort",
+        "alias": "sort",
+        "userDefined": false
+      },
+      {
+        "text": " news from ",
+        "userDefined": false
+      },
+      {
+        "text": "BBC",
+        "meta": "@news-source",
+        "alias": "source",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3615c553-c949-4420-8bc7-332ee56715be",
+    "data": [
+      {
+        "text": "could you read ",
+        "userDefined": false
+      },
+      {
+        "text": "top",
+        "meta": "@news-sort",
+        "alias": "sort",
+        "userDefined": false
+      },
+      {
+        "text": " news about ",
+        "userDefined": false
+      },
+      {
+        "text": "Google Pixel Phone",
+        "meta": "@sys.any",
+        "alias": "keyword",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "661a1563-db3f-4f51-b741-fa1560bca2ce",
+    "data": [
+      {
+        "text": "what are the ",
+        "userDefined": false
+      },
+      {
+        "text": "latest",
+        "meta": "@news-sort",
+        "alias": "sort",
+        "userDefined": false
+      },
+      {
+        "text": " news from ",
+        "userDefined": false
+      },
+      {
+        "text": "Amazon",
+        "meta": "@news-source",
+        "alias": "source",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5641b0f5-531a-49ca-a821-89f60060ae97",
+    "data": [
+      {
+        "text": "bring me up the news about ",
+        "userDefined": false
+      },
+      {
+        "text": "Spain",
+        "meta": "@sys.any",
+        "alias": "keyword",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7be3807f-7add-4edf-b515-80d04deb1ddc",
+    "data": [
+      {
+        "text": "headlines about ",
+        "userDefined": false
+      },
+      {
+        "text": "elections",
+        "meta": "@sys.any",
+        "alias": "keyword",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c76f1cfc-99f4-4ee1-ae64-8701a35568e7",
+    "data": [
+      {
+        "text": "update me with ",
+        "userDefined": false
+      },
+      {
+        "text": "political",
+        "meta": "@topic",
+        "alias": "category",
+        "userDefined": false
+      },
+      {
+        "text": " news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b1b8577-24d7-48d7-83cb-72c0a05c3081",
+    "data": [
+      {
+        "text": "top",
+        "meta": "@news-sort",
+        "alias": "sort",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fashion",
+        "meta": "@topic",
+        "alias": "category",
+        "userDefined": false
+      },
+      {
+        "text": " news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7765fd52-a184-4556-ae40-c5984972c8fa",
+    "data": [
+      {
+        "text": "latest",
+        "meta": "@news-sort",
+        "alias": "sort",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "CNN",
+        "meta": "@news-source",
+        "alias": "source",
+        "userDefined": false
+      },
+      {
+        "text": " news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

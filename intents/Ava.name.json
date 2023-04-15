@@ -1,0 +1,40 @@
+{
+  "id": "ce5878fb-d9fb-4292-b2ca-9a603258f4d8",
+  "name": "Ava.name",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.name",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I am Kushagra\u0027s bot",
+            "Name\u0027s Karira... Kushagra Karira",
+            "Kushagra",
+            "From what I know my name is Kushagra Karira.",
+            "Oh sorry, I thought you knew. My name is Kushagra.",
+            "I go by Kushagra, but you can call me Kush."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

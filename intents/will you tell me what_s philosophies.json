@@ -1,0 +1,37 @@
+{
+  "id": "45cc06f9-d9fd-4b6c-9184-6b0045f3d535",
+  "name": "will you tell me what\u0027s philosophies",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Asking questions that don\u0027t have only one answer.",
+            "Recognizing that the act of thinking is more important that the answer to the question itself.",
+            "Well I know Descartes said, I think, therefore I am,  and Popeye said , I am what I am. Beyond that, I am still learning."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

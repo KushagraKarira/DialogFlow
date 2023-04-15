@@ -1,0 +1,123 @@
+[
+  {
+    "id": "3ea5ee52-5e67-4aae-84f6-dfb43dac5555",
+    "data": [
+      {
+        "text": "check the due date for my bill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef7ef093-0b6b-472d-9716-dfd756437912",
+    "data": [
+      {
+        "text": "was my payment due date changed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef4a6d55-6171-4e59-9516-8354dc5269ff",
+    "data": [
+      {
+        "text": "check my payment deadline",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c293aadc-8dc4-4471-b259-8103ec25b0e9",
+    "data": [
+      {
+        "text": "when is my bill due",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e60f71f-9bf9-4163-8f40-4ba1d13a0d57",
+    "data": [
+      {
+        "text": "bill",
+        "userDefined": false
+      },
+      {
+        "text": " due date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8af2be85-33b8-4074-b579-9cbb7240b06f",
+    "data": [
+      {
+        "text": "payment due date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "905ec8ce-90bd-4aa9-a4fb-c780d4c4caff",
+    "data": [
+      {
+        "text": "what\u0027s the deadline for my bill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46ce5edc-abfc-4be1-8285-44f49328edb0",
+    "data": [
+      {
+        "text": "when should I pay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4dbccf50-da46-47d3-a930-c5e642297ff3",
+    "data": [
+      {
+        "text": "I need confirmation that my due date was changed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

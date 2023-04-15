@@ -1,0 +1,80 @@
+{
+  "id": "4afbc302-2652-452c-8b84-93f0e1d3947e",
+  "name": "time.convert",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "time.convert",
+      "affectedContexts": [
+        {
+          "name": "convert-time",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6f1dceb6-b903-4340-9f44-34d7e4d24692",
+          "name": "time-from",
+          "required": false,
+          "dataType": "@sys.time",
+          "value": "$time-from",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a163f6ec-5dc0-42ad-879d-337fca936b70",
+          "name": "location-from",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location-from",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "bb821f43-bda4-4b45-b18f-c6e48b97e403",
+          "name": "location-to",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location-to",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

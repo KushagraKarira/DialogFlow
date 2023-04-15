@@ -1,0 +1,80 @@
+[
+  {
+    "id": "3f6572dd-127a-4c33-babb-e18de9da633f",
+    "data": [
+      {
+        "text": "show statistics for @player:player",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e78fa540-d4e2-435d-93e5-3dd370e60145",
+    "data": [
+      {
+        "text": "statistics for @player:player",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05d6074d-c40d-4ae4-875a-ac07233053ba",
+    "data": [
+      {
+        "text": "@player:player statistics please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "572c4adc-01eb-4651-8329-9f8c65318b8b",
+    "data": [
+      {
+        "text": "@player:player statistics",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c986f3c-28cf-4b40-8591-6b1428f9732d",
+    "data": [
+      {
+        "text": "stats for @player:player",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "396678d5-450f-4667-9321-2c55611a695c",
+    "data": [
+      {
+        "text": "show me stats for @player:player",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

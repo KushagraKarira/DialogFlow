@@ -1,0 +1,60 @@
+[
+  {
+    "id": "fd5bdb4b-4b55-4c40-a59f-4be74e1b8ed1",
+    "data": [
+      {
+        "text": "how can i pay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f37565ae-ee83-4dda-9370-05c3e613da48",
+    "data": [
+      {
+        "text": "Pay you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45928bf8-c5a3-4913-9dc7-ac440e32b69f",
+    "data": [
+      {
+        "text": "How can i ",
+        "userDefined": false
+      },
+      {
+        "text": "help",
+        "meta": "@command",
+        "alias": "command",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d23e5ef1-7273-4169-bb53-146ba46e0cd1",
+    "data": [
+      {
+        "text": "How can i contribute",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

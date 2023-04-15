@@ -1,0 +1,28 @@
+[
+  {
+    "id": "f93f650a-09a6-423f-b1aa-f6c92c9e6b97",
+    "data": [
+      {
+        "text": "is life fair",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04f7e7ea-1821-40c9-9e6f-383aebd2433d",
+    "data": [
+      {
+        "text": "is life just",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

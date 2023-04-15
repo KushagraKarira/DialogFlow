@@ -1,0 +1,59 @@
+{
+  "id": "0dd43c98-ec2c-4203-8457-7c7fb595a449",
+  "name": "support.refund",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "support.refund",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "25264325-108c-4080-8d1b-bfdddb44d4c9",
+          "name": "transaction-id",
+          "required": true,
+          "dataType": "@sys.number",
+          "value": "$transaction-id",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Can you tell me transaction ID of the purchase you made?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "But i am free :D",
+            "But you didn\u0027t pay anything for me, i am free bot to everyone :)"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

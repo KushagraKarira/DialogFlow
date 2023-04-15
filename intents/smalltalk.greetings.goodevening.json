@@ -1,0 +1,100 @@
+{
+  "id": "bf1bd910-7242-487e-a6d9-788068603231",
+  "name": "smalltalk.greetings.goodevening",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.greetings.goodevening",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e5a6f482-7d39-4ab6-97c2-aaf0283144ef",
+          "name": "given-name",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "value": "$given-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "How is your day going?",
+            "How\u0027s the day treating you so far?",
+            "How\u0027s your day been?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-gb",
+          "speech": [
+            "How is your day going?",
+            "How\u0027s the day treating you so far?",
+            "How\u0027s your day been?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-au",
+          "speech": [
+            "How is your day going?",
+            "How\u0027s the day treating you so far?",
+            "How\u0027s your day been?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-ca",
+          "speech": [
+            "How is your day going?",
+            "How\u0027s the day treating you so far?",
+            "How\u0027s your day been?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-us",
+          "speech": [
+            "How is your day going?",
+            "How\u0027s the day treating you so far?",
+            "How\u0027s your day been?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

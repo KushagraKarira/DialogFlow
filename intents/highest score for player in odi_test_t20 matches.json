@@ -1,0 +1,64 @@
+{
+  "id": "ada7f20f-631d-40f6-8f36-d170d939b9d4",
+  "name": "highest score for player in odi/test/t20 matches",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "417c0c0f-bc5b-48bf-8805-03fc598d5026",
+          "name": "match-type",
+          "required": false,
+          "dataType": "@match-type",
+          "value": "$match-type",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8c5ba3e2-540c-4604-a3c4-ff91879e8b15",
+          "name": "player",
+          "required": false,
+          "dataType": "@player",
+          "value": "$player",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "http://stats.espncricinfo.com/ci/engine/player/{$player}.html?class\u003d{$match-type};filter\u003dadvanced;orderby\u003dbatted_score;template\u003dresults;type\u003dallround;view\u003dinnings"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

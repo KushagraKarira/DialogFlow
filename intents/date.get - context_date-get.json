@@ -1,0 +1,63 @@
+{
+  "id": "856382d2-d1a6-4309-aba3-bab311430e3d",
+  "name": "date.get - context:date-get",
+  "auto": true,
+  "contexts": [
+    "date-get"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "date.get",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "61b45fa6-337f-4e5a-b140-0f8ebb48fbc3",
+          "name": "date",
+          "required": false,
+          "dataType": "@sys.date",
+          "value": "$date",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7c5ca8b8-0f2d-4da7-9072-9f1548e7ff28",
+          "name": "dayofweek",
+          "required": false,
+          "dataType": "@dayofweek",
+          "value": "$dayofweek",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

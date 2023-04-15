@@ -1,0 +1,9 @@
+{
+  "id": "f088e66e-c105-4b9f-ac68-b7696e23ac30",
+  "name": "device-module",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

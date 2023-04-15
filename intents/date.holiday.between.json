@@ -1,0 +1,75 @@
+{
+  "id": "d2296efa-2dc5-4982-9955-8d3da58f3292",
+  "name": "date.holiday.between",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "date.holiday.between",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "229ea712-9e50-495f-beb2-84b7df4b7419",
+          "name": "holiday-1",
+          "required": false,
+          "dataType": "@holiday",
+          "value": "$holiday-1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ddd53f3f-9053-424b-9d32-9e084d936912",
+          "name": "holiday-2",
+          "required": false,
+          "dataType": "@holiday",
+          "value": "$holiday-2",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "dbded644-b2cd-45e2-afc4-6ed61ed58532",
+          "name": "unit",
+          "required": false,
+          "dataType": "@unit-time",
+          "value": "$unit",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

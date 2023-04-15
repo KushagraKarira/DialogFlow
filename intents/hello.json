@@ -1,0 +1,42 @@
+{
+  "id": "75e6d4e4-d79e-4d3a-b7dc-b1d4a1cd2ead",
+  "name": "hello",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.greetings.hello",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi there, %name%!",
+            "Hey %name%",
+            "Good day %name% :)",
+            "Howdy.",
+            "Hey",
+            "Hej",
+            "Hej %name%",
+            "Hello %name%, how are you?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

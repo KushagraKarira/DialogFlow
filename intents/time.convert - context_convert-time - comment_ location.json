@@ -1,0 +1,49 @@
+{
+  "id": "68155580-4b4d-4a42-ad4e-f6e96ca1a423",
+  "name": "time.convert - context:convert-time - comment: location",
+  "auto": true,
+  "contexts": [
+    "convert-time"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "time.convert",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a9534038-f294-453c-a27e-777e719977a4",
+          "name": "location-to",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location-to",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "a84ae0ba-2f28-4d9f-93a4-8911d616eab7",
+  "name": "will you tell me what is the meaning of life",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "42 of course!",
+            "That\u0027s pretty heavy, but I\u0027ve heard another robot say 42 was the meaning of life and the answer to it all",
+            "I have no idea, I am just a robot",
+            "as soon as you figure it out, tell me.",
+            "To serve my human masters.",
+            "Science, Art, and Pizza!",
+            "42!",
+            "It\u0027s a crazy British film written and directed by the Monty Python team in 1983.",
+            "Life begins at the beginning and ends at the end, in a clockwise direction."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,227 @@
+[
+  {
+    "id": "84510e38-7dbc-409e-9992-e726fd926517",
+    "data": [
+      {
+        "text": "what is the date of ",
+        "userDefined": false
+      },
+      {
+        "text": "Columbus day",
+        "meta": "@holiday",
+        "alias": "holiday",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "2015",
+        "meta": "@sys.date-time",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63a715ba-0093-4468-83d4-cfb196ed7737",
+    "data": [
+      {
+        "text": "what is the date ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Labour Day",
+        "meta": "@holiday",
+        "alias": "holiday",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "2018",
+        "meta": "@sys.date-time",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d614fa1-ea14-4738-af92-5abc50aa0e50",
+    "data": [
+      {
+        "text": "when is ",
+        "userDefined": false
+      },
+      {
+        "text": "Thanksgiving",
+        "meta": "@holiday",
+        "alias": "holiday",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "this year",
+        "meta": "@sys.date-time",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67c3047d-f371-486c-86f0-83f191113b36",
+    "data": [
+      {
+        "text": "when was ",
+        "userDefined": false
+      },
+      {
+        "text": "Christmas",
+        "meta": "@holiday",
+        "alias": "holiday",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4450d004-fd03-4ade-aba2-af9a98668e6e",
+    "data": [
+      {
+        "text": "Independence Day",
+        "meta": "@holiday",
+        "alias": "holiday",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2013",
+        "meta": "@sys.date-time",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": " date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c205d51-f740-4a93-89ea-3b9bd0c9cb91",
+    "data": [
+      {
+        "text": "when is ",
+        "userDefined": false
+      },
+      {
+        "text": "Valentine\u0027s Day",
+        "meta": "@holiday",
+        "alias": "holiday",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4c5e81d-c72e-4b01-952d-19a28e5fd4ad",
+    "data": [
+      {
+        "text": "I wonder when is ",
+        "userDefined": false
+      },
+      {
+        "text": "Saint Patrick\u0027s day",
+        "meta": "@holiday",
+        "alias": "holiday",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83810b92-138e-4a4e-bcff-576858391d58",
+    "data": [
+      {
+        "text": "Halloween",
+        "meta": "@holiday",
+        "alias": "holiday",
+        "userDefined": false
+      },
+      {
+        "text": " date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d9b9fd5-9207-4c8d-bf0f-38c101b839a2",
+    "data": [
+      {
+        "text": "Columbus Day",
+        "meta": "@holiday",
+        "alias": "holiday",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2018",
+        "meta": "@sys.date-time",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

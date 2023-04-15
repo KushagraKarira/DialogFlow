@@ -1,0 +1,385 @@
+[
+  {
+    "id": "172a9251-82d3-4518-b269-5347b18910d7",
+    "data": [
+      {
+        "text": "t20",
+        "meta": "@match-type",
+        "alias": "match-type",
+        "userDefined": false
+      },
+      {
+        "text": " average ",
+        "userDefined": false
+      },
+      {
+        "text": "Rohit Sharma",
+        "meta": "@player",
+        "alias": "player",
+        "userDefined": false
+      },
+      {
+        "text": " versus ",
+        "userDefined": false
+      },
+      {
+        "text": "Sri Lanka",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "303cf2b2-52c2-4156-b7cc-a0ba77158b6f",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Virat Kohli",
+        "meta": "@player",
+        "alias": "player",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Twenty20",
+        "meta": "@match-type",
+        "alias": "match-type",
+        "userDefined": false
+      },
+      {
+        "text": " average against ",
+        "userDefined": false
+      },
+      {
+        "text": "SL",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae3e13ee-3a65-42b4-8dd3-c8c462ba565c",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Mohammad Kaif",
+        "meta": "@player",
+        "alias": "player",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "test",
+        "meta": "@match-type",
+        "alias": "match-type",
+        "userDefined": false
+      },
+      {
+        "text": " average against ",
+        "userDefined": false
+      },
+      {
+        "text": "Australia",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "efe121de-fd75-4fd5-9d81-90cd41b3ea44",
+    "data": [
+      {
+        "text": "what is Akash ",
+        "userDefined": false
+      },
+      {
+        "text": "Chopra",
+        "meta": "@player",
+        "alias": "player",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "test",
+        "meta": "@match-type",
+        "alias": "match-type",
+        "userDefined": false
+      },
+      {
+        "text": " average against ",
+        "userDefined": false
+      },
+      {
+        "text": "Pakistan",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6cdeb634-d6ee-416b-87cc-1747cf583cb0",
+    "data": [
+      {
+        "text": "average against ",
+        "userDefined": false
+      },
+      {
+        "text": "Aussies",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Virender Sehwag",
+        "meta": "@player",
+        "alias": "player1",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "ODI",
+        "meta": "@match-type",
+        "alias": "match-type",
+        "userDefined": false
+      },
+      {
+        "text": " matches",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a20fe21f-710c-4708-9e53-a3ae757e174c",
+    "data": [
+      {
+        "text": "avg against ",
+        "userDefined": false
+      },
+      {
+        "text": "Australia",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "tests",
+        "meta": "@match-type",
+        "alias": "match-type",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Sehwag",
+        "meta": "@player",
+        "alias": "player",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6cd21be7-2164-4194-8293-eaabb78f5f41",
+    "data": [
+      {
+        "text": "what is the average ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "userDefined": false
+      },
+      {
+        "text": " Saurav ",
+        "userDefined": false
+      },
+      {
+        "text": "Ganguly",
+        "meta": "@player",
+        "alias": "player1",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "test matches",
+        "meta": "@match-type",
+        "alias": "match-type",
+        "userDefined": false
+      },
+      {
+        "text": " versus ",
+        "userDefined": false
+      },
+      {
+        "text": "Pakistan",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9031a92c-28a4-4384-82c5-8983b500d6f4",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "rahul dravid",
+        "meta": "@player",
+        "alias": "player",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s\u0027s average against ",
+        "userDefined": false
+      },
+      {
+        "text": "Australia",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Tests",
+        "meta": "@match-type",
+        "alias": "match-type",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d97eea0-d86b-40c2-bc5d-7d89f16a56d7",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "sachin",
+        "meta": "@player",
+        "alias": "player",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s\u0027s average against ",
+        "userDefined": false
+      },
+      {
+        "text": "WI",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Test matches",
+        "meta": "@match-type",
+        "alias": "match-type",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

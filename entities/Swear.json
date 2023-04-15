@@ -1,0 +1,9 @@
+{
+  "id": "c5902fee-49a1-4529-a1c2-cd84109a9cff",
+  "name": "Swear",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

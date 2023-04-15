@@ -1,0 +1,187 @@
+[
+  {
+    "id": "7bedcc96-49ed-4d79-b6b9-34f077d23de6",
+    "data": [
+      {
+        "text": "tell me if it\u0027s year ",
+        "userDefined": false
+      },
+      {
+        "text": "2018",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9d94d24-1ac2-4c9a-9ca2-953fead7e51c",
+    "data": [
+      {
+        "text": "is nowadays ",
+        "userDefined": false
+      },
+      {
+        "text": "1990",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": true
+      },
+      {
+        "text": " year",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48609d04-ec97-4806-98fa-fac1e59fc9e0",
+    "data": [
+      {
+        "text": "now it\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "1989",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": true
+      },
+      {
+        "text": " year right",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "253f30bf-a206-4595-934b-7375a45e3728",
+    "data": [
+      {
+        "text": "check if ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "year",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2016",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5db44c3-7a3f-4d66-848c-9ed8701e2b5e",
+    "data": [
+      {
+        "text": "is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2015",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52dc329f-1825-49ba-98d8-d987f38747be",
+    "data": [
+      {
+        "text": "it\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "2019",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": true
+      },
+      {
+        "text": " isn\u0027t it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d76c7143-861d-42c5-b150-ddfa96f7c674",
+    "data": [
+      {
+        "text": "is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "year",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2017",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

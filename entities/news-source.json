@@ -1,0 +1,9 @@
+{
+  "id": "c0e2deb8-e531-4083-b442-83b8689e036b",
+  "name": "news-source",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

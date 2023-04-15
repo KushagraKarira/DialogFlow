@@ -1,0 +1,23 @@
+[
+  {
+    "value": "off",
+    "synonyms": [
+      "deactivated",
+      "disabled",
+      "inactive",
+      "off",
+      "switched off"
+    ]
+  },
+  {
+    "value": "on",
+    "synonyms": [
+      "activated",
+      "active",
+      "enabled",
+      "on",
+      "switched on",
+      "working"
+    ]
+  }
+]

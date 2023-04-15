@@ -1,0 +1,78 @@
+{
+  "id": "0cecefdf-e7ff-4d1f-9ff1-c7af7e731da0",
+  "name": "player\u0027s highest score against opponent in specific format",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b2b20ffe-6be7-4dff-a06e-fb2023abea66",
+          "name": "player",
+          "required": false,
+          "dataType": "@player",
+          "value": "$player",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "9b5b45e5-3a2b-4d80-a9c6-b67f952cbd99",
+          "name": "match-type",
+          "required": false,
+          "dataType": "@match-type",
+          "value": "$match-type",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "6d5cf9f1-accb-406c-878c-3b79a1065159",
+          "name": "team",
+          "required": false,
+          "dataType": "@team",
+          "value": "$team",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "http://stats.espncricinfo.com/ci/engine/player/{$player}.html?class\u003d{$match-type};filter\u003dadvanced;opposition\u003d{$team};orderby\u003dbatted_score;template\u003dresults;type\u003dallround;view\u003dinnings"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

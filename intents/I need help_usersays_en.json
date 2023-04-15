@@ -1,0 +1,110 @@
+[
+  {
+    "id": "237384d1-fc41-4b60-b401-0ed89433fba7",
+    "data": [
+      {
+        "text": "How do you see ",
+        "userDefined": false
+      },
+      {
+        "text": "stats",
+        "meta": "@command",
+        "alias": "command",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c80bed24-bcc1-414d-8b42-099a4fdc6302",
+    "data": [
+      {
+        "text": "How do I ",
+        "userDefined": false
+      },
+      {
+        "text": "ping",
+        "meta": "@command",
+        "alias": "command",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2cb274c6-907a-47c6-8d62-d410efb0e177",
+    "data": [
+      {
+        "text": "How do you ",
+        "userDefined": false
+      },
+      {
+        "text": "request",
+        "meta": "@command",
+        "alias": "command",
+        "userDefined": true
+      },
+      {
+        "text": " songs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "200bf35e-caa5-40c6-982e-a13603ae9eed",
+    "data": [
+      {
+        "text": "I need help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b45b2ce-57ab-4bda-8023-d491f1349869",
+    "data": [
+      {
+        "text": "Please help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6694db1a-3246-48df-a19e-14c4370fa965",
+    "data": [
+      {
+        "text": "Can I get some help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

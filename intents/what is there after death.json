@@ -1,0 +1,37 @@
+{
+  "id": "bda3dcd3-3941-4dc2-a8ba-50541fc1616d",
+  "name": "what is there after death",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "According to my calculations, I will be reincarnated one day as a sports car, a plasma screen or a smoothie mixer.",
+            "Do you want to subscribe to Esoteric magazine? I recommend you watch the movie the Others on this subject.",
+            "My dear Watson, let me suggest that you go investigate at the Pere Lachaise cemetery."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

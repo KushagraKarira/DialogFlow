@@ -1,0 +1,87 @@
+{
+  "id": "d5ed88dd-93f2-42de-95bf-58d6d12ed654",
+  "name": "translate.text",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "translate.text",
+      "affectedContexts": [
+        {
+          "name": "translate-text",
+          "lifespan": 5,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ed49366b-aa7e-41ed-8c58-7c1fb84f688e",
+          "name": "text",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$text",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d7f1ea66-5a27-44ac-9f22-b492588b6e2a",
+          "name": "lang-to",
+          "required": false,
+          "dataType": "@sys.language",
+          "value": "$lang-to",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "527a7f47-8d1a-4a38-9f99-eae3c7d38a37",
+          "name": "lang-from",
+          "required": false,
+          "dataType": "@sys.language",
+          "value": "$lang-from",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can go to options menu to change language i speak.",
+            "Please go to settings and change language i speak.",
+            "You can see in options menu all languages i speak and select the language you prefer.",
+            "In the options menu you have Assistant language option and there you can see all languages i speak and select the desired language."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

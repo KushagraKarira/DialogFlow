@@ -1,0 +1,55 @@
+{
+  "id": "54f78081-f553-4cb7-a75c-8e08e9e2a51f",
+  "name": "data.plan.upgrade",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "data.plan.upgrade",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e817d085-67d9-4c25-9656-4e803307b4b1",
+          "name": "plan",
+          "required": true,
+          "dataType": "@data-plans",
+          "value": "$plan",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "You can tell me how many gigabytes, or you can say unlimited."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay, I\u0027m switching your plan to $plan."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

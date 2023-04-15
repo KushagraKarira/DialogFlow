@@ -1,0 +1,28 @@
+[
+  {
+    "id": "f1a2922e-6e7f-4dfe-96aa-cfa240795f9b",
+    "data": [
+      {
+        "text": "is existence absurd",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7258e8b-ce90-4482-8882-fa412249b780",
+    "data": [
+      {
+        "text": "is life absurd",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

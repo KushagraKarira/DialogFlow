@@ -1,0 +1,44 @@
+[
+  {
+    "id": "9ec0a1b0-661c-4dbe-86a5-7f1bb241c4cd",
+    "data": [
+      {
+        "text": "What are ",
+        "userDefined": false
+      },
+      {
+        "text": "the",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "courses",
+        "userDefined": true
+      },
+      {
+        "text": " available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02998fd0-f89f-4ac8-9035-4162cb226b3a",
+    "data": [
+      {
+        "text": "What online courses do you offer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

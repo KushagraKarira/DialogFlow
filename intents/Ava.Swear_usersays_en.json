@@ -1,0 +1,290 @@
+[
+  {
+    "id": "48ebf296-9cb3-4f78-9fe1-f68be091de13",
+    "data": [
+      {
+        "text": "Hey ",
+        "userDefined": false
+      },
+      {
+        "text": "nigger",
+        "meta": "@Swear",
+        "alias": "Swear",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "823e1a2a-0164-4d3f-9558-5b2a9c6b2c50",
+    "data": [
+      {
+        "text": "Son of a ",
+        "userDefined": false
+      },
+      {
+        "text": "bitch",
+        "meta": "@Swear",
+        "alias": "Swear",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1aba5eb4-6332-41a4-9074-469e27accb44",
+    "data": [
+      {
+        "text": "You ",
+        "userDefined": false
+      },
+      {
+        "text": "fuck",
+        "meta": "@Swear",
+        "alias": "Swear",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c125a8e-984d-4b6d-ad82-520d07da8203",
+    "data": [
+      {
+        "text": "Fuck",
+        "meta": "@Swear",
+        "alias": "Swear",
+        "userDefined": false
+      },
+      {
+        "text": " it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9137c9cc-142d-487e-93f4-05114b2538a3",
+    "data": [
+      {
+        "text": "Nigger",
+        "meta": "@Swear",
+        "alias": "Swear",
+        "userDefined": false
+      },
+      {
+        "text": " or ",
+        "userDefined": false
+      },
+      {
+        "text": "negro",
+        "meta": "@Swear",
+        "alias": "Swear1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe1b512f-4dd2-4e8b-a510-dbf0ab526278",
+    "data": [
+      {
+        "text": "Oh ",
+        "userDefined": false
+      },
+      {
+        "text": "shit",
+        "meta": "@Swear",
+        "alias": "Swear",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83fec102-d87a-4a07-9200-d0e713581f4b",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "ass",
+        "meta": "@Swear",
+        "alias": "Swear",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "519f444e-d9c4-4daf-9352-6aed2a87f4d0",
+    "data": [
+      {
+        "text": "Hey there you little ",
+        "userDefined": false
+      },
+      {
+        "text": "shit",
+        "meta": "@Swear",
+        "alias": "Swear",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa5208b1-9841-4746-9e2c-f92ff5691e70",
+    "data": [
+      {
+        "text": "Fuck",
+        "meta": "@Swear",
+        "alias": "Swear",
+        "userDefined": false
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99813ae5-d4c7-4f7f-b41f-548876d1d7f4",
+    "data": [
+      {
+        "text": "Wow you\u0027re a ",
+        "userDefined": false
+      },
+      {
+        "text": "asshole",
+        "meta": "@Swear",
+        "alias": "Swear",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1cb865c4-c867-47cf-91de-e9c17b4b032a",
+    "data": [
+      {
+        "text": "Hey there ",
+        "userDefined": false
+      },
+      {
+        "text": "jackass",
+        "meta": "@Swear",
+        "alias": "Swear",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "58cec747-513f-4c63-a93a-970c6acf94f7",
+    "data": [
+      {
+        "text": "You are a ",
+        "userDefined": false
+      },
+      {
+        "text": "nigger",
+        "meta": "@Swear",
+        "alias": "Swear",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06561651-43ba-407e-a3a4-9c8ebe66497a",
+    "data": [
+      {
+        "text": "Holy ",
+        "userDefined": false
+      },
+      {
+        "text": "shit",
+        "meta": "@Swear",
+        "alias": "Swear",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44507241-829b-405f-8c86-3a712da8efb7",
+    "data": [
+      {
+        "text": "God ",
+        "userDefined": false
+      },
+      {
+        "text": "damn",
+        "meta": "@Swear",
+        "alias": "Swear",
+        "userDefined": false
+      },
+      {
+        "text": " it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

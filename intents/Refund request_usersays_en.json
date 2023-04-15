@@ -1,0 +1,105 @@
+[
+  {
+    "id": "493487b3-bc9f-4b1b-a401-b83935281b20",
+    "data": [
+      {
+        "text": "I want to cancel the purchase  ",
+        "userDefined": false
+      },
+      {
+        "text": "134",
+        "meta": "@sys.number",
+        "alias": "transactionid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40d94d15-f578-4ea4-85e5-28253fa317db",
+    "data": [
+      {
+        "text": "give me back my money",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67ba8e3e-315b-4b5f-b83f-97f4a4db9266",
+    "data": [
+      {
+        "text": "I\u0027ve bought the broken item. Return my money",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ba648d9-e6df-4a7a-84de-73055ad1de13",
+    "data": [
+      {
+        "text": "the product I\u0027ve bought here is failed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99e74f26-2676-43cd-b09f-9849a946a239",
+    "data": [
+      {
+        "text": "how do i get a refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8ea45ba-086a-437f-8f3b-24ae419cb162",
+    "data": [
+      {
+        "text": "refund my purchase. Transaction id is ",
+        "userDefined": false
+      },
+      {
+        "text": "123",
+        "meta": "@sys.number",
+        "alias": "transactionid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f752d5d1-f4e2-4e86-b5e6-255a56bc0001",
+    "data": [
+      {
+        "text": "refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

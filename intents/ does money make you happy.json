@@ -1,0 +1,38 @@
+{
+  "id": "c7c3c969-fc64-490c-8fa1-15676ed1bbcb",
+  "name": " does money make you happy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Money is only a means to an end.",
+            "It can help, but it\u0027s only one of the possible means.",
+            "No, but money can buy a jet ski and just try to not be happy on one of those",
+            "No but money can buy an ice cream cone and you just can\u0027t be unhappy with an ice cream cone"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

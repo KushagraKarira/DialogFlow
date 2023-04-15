@@ -1,0 +1,59 @@
+{
+  "id": "788b14be-6365-494e-944f-98679241c5b6",
+  "parentId": "75eb230b-d185-4971-8bfd-74c47066258b",
+  "rootParentId": "75eb230b-d185-4971-8bfd-74c47066258b",
+  "name": "intent-earthquake - indoors",
+  "auto": true,
+  "contexts": [
+    "intent-earthquake-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "intent-earthquake.intent-earthquake-custom",
+      "affectedContexts": [
+        {
+          "name": "intent-earthquake-indoors-1-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "84c3c670-9756-4e6b-ab20-65d92d67b0b4",
+          "name": "disaster-earthquake-situation",
+          "required": false,
+          "dataType": "@disaster-earthquake-situation",
+          "value": "$disaster-earthquake-situation",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Stay in bed if you are there when the earthquake strikes. Hold on and protect your head with a pillow, unless you are under a heavy light fixture that could fall. In that case, move to the nearest safe place."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "42660a66-4cd2-429b-8289-05217d7252fd",
+    "data": [
+      {
+        "text": "do you know what\u0027s the dumbest question you\u0027ve ever been asked",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65e08d3e-909f-4072-9f5a-5f3a99bc6b25",
+    "data": [
+      {
+        "text": "what\u0027s the dumbest question you\u0027ve ever been asked",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ea161ef-9127-4969-916d-360e2cc38e96",
+    "data": [
+      {
+        "text": "can you please tell me what\u0027s the dumbest question you\u0027ve ever been asked",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7738462a-3211-4ea8-8ef8-92f458458c15",
+    "data": [
+      {
+        "text": "tell me what\u0027s the dumbest question you\u0027ve been asked",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8408b62b-b4ec-439c-be70-3b21c87b8125",
+    "data": [
+      {
+        "text": "will you please tell me what\u0027s the dumbest question you\u0027ve ever been asked",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "655ae312-ed5f-4902-b607-0379cebe9cdc",
+    "data": [
+      {
+        "text": "could you tell me what is the dumbest question you\u0027ve been asked",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

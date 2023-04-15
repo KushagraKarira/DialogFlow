@@ -1,0 +1,88 @@
+[
+  {
+    "id": "92cebdc7-0c3a-42ae-b6f9-5fe8943e022b",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "art",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03faf9aa-a0a0-4ceb-a211-7eb10718d1ba",
+    "data": [
+      {
+        "text": "define word art",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1d447b2-cd23-4402-9863-c6c87b071e49",
+    "data": [
+      {
+        "text": "describe ",
+        "userDefined": false
+      },
+      {
+        "text": "art",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2fee4caa-6b46-4cf3-993f-de3ec7cf2058",
+    "data": [
+      {
+        "text": " tell what you know about art",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ee23e5b-72ad-4a37-b79b-24729e726341",
+    "data": [
+      {
+        "text": "define the art",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3a68702-251a-458c-8696-ade45a108f05",
+    "data": [
+      {
+        "text": "what\u0027s art",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

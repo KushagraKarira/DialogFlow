@@ -1,0 +1,100 @@
+[
+  {
+    "id": "df616f33-df40-4c76-85c9-b274af59c45c",
+    "data": [
+      {
+        "text": "i am in ",
+        "userDefined": false
+      },
+      {
+        "text": "earthquake",
+        "meta": "@disaster-abstract",
+        "alias": "disaster-abstract",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b23c9047-147c-4854-af3f-f0ed331c1d68",
+    "data": [
+      {
+        "text": "earthquake",
+        "meta": "@disaster-abstract",
+        "alias": "disaster-abstract",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eadf4c7a-bedd-4bbb-bc00-c0e8807a6922",
+    "data": [
+      {
+        "text": "i am in an ",
+        "userDefined": false
+      },
+      {
+        "text": "earthquake",
+        "meta": "@disaster-abstract",
+        "alias": "disaster-abstract",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63bec7d0-f3fe-40f2-a1c6-16d3fbd0f7a0",
+    "data": [
+      {
+        "text": "something disrupting the ground",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f231bb36-6592-400f-b6f3-dc56138083da",
+    "data": [
+      {
+        "text": "ground is shaking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "268dd095-0d55-46c9-940c-4174dd84bf2c",
+    "data": [
+      {
+        "text": "there is an ",
+        "userDefined": false
+      },
+      {
+        "text": "earthquake",
+        "meta": "@disaster-abstract",
+        "alias": "disaster-abstract",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "46566b60-d0c4-43c5-aa05-0ea61f068a5c",
+    "data": [
+      {
+        "text": "tell me about delivery time frame",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff5af53f-66ba-44ea-b1cc-1aa08a49abdb",
+    "data": [
+      {
+        "text": "when can I receive my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9731502-b4c7-4f7c-b5d4-180287ba0ca8",
+    "data": [
+      {
+        "text": "shipping time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7c4fa6a-a02f-49ee-93bf-485d36f73031",
+    "data": [
+      {
+        "text": "delivery time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e7b7b03-e3e7-4824-ab4e-bbac541c1ecc",
+    "data": [
+      {
+        "text": "when will my order arrive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

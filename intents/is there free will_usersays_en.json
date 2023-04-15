@@ -1,0 +1,54 @@
+[
+  {
+    "id": "453ee59a-a84d-4ff2-97d9-919ff063bcdc",
+    "data": [
+      {
+        "text": "is there free will",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d9afa96-abbd-499e-9e84-8ce1a152e38e",
+    "data": [
+      {
+        "text": "does free will exist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "627ad555-82d0-41a2-948f-c22e143f34d6",
+    "data": [
+      {
+        "text": "does free will really exist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46affedc-2cee-4d71-862c-5e0f311cb91e",
+    "data": [
+      {
+        "text": "is there such a thing as free will",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

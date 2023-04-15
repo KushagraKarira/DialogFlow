@@ -1,0 +1,90 @@
+{
+  "id": "c8d790e9-6016-4d1b-b0cd-b405dc0d02c5",
+  "name": "smalltalk.user.likes_agent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.likes_agent",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I like you, too.",
+            "Thanks! The feeling is mutual.",
+            "Likewise!",
+            "That\u0027s great to hear."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-gb",
+          "speech": [
+            "I like you too.",
+            "That\u0027s great to hear.",
+            "Likewise!",
+            "Thanks! The feeling is mutual."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-au",
+          "speech": [
+            "I like you too.",
+            "That\u0027s great to hear.",
+            "Likewise!",
+            "Thanks! The feeling is mutual."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-ca",
+          "speech": [
+            "I like you too.",
+            "That\u0027s great to hear.",
+            "Likewise!",
+            "Thanks! The feeling is mutual."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-us",
+          "speech": [
+            "I like you too.",
+            "That\u0027s great to hear.",
+            "Likewise!",
+            "Thanks! The feeling is mutual."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

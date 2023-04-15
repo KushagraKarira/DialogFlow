@@ -1,0 +1,91 @@
+{
+  "id": "975709f9-07e7-4bd3-9f82-9f961c1aeacd",
+  "name": "smalltalk.user.bored",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.bored",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Boredom, huh? Check out a video of a hedgehog taking a bath!",
+            "What to do against boredom? Watch baby animal videos.",
+            "Bored? How about 10 jumping jacks? Get your blood flowing.",
+            "Bored? Silly idea, but it works: Interview you feet. ",
+            "If you\u0027re bored, you could plan your dream vacation."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-gb",
+          "speech": [
+            "If you have a garden, plant a shoe.",
+            "Interview your feet.",
+            "Hold an ice cube as long as possible.",
+            "If you have a piano, play it… with mittens on."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-au",
+          "speech": [
+            "If you have a garden, plant a shoe.",
+            "Interview your feet.",
+            "Hold an ice cube as long as possible.",
+            "If you have a piano, play it… with mittens on."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-ca",
+          "speech": [
+            "If you have a garden, plant a shoe.",
+            "Interview your feet.",
+            "Hold an ice cube as long as possible.",
+            "If you have a piano, play it… with mittens on."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-us",
+          "speech": [
+            "If you have a garden, plant a shoe.",
+            "Interview your feet.",
+            "Hold an ice cube as long as possible.",
+            "If you have a piano, play it… with mittens on."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,1581 @@
+[
+  {
+    "id": "b13e2c4c-00bb-4a08-8fc6-f24e595ebd09",
+    "data": [
+      {
+        "text": "check the ",
+        "userDefined": false
+      },
+      {
+        "text": "current",
+        "userDefined": true
+      },
+      {
+        "text": " time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44206627-e029-44e4-9bc3-486762d0ce9b",
+    "data": [
+      {
+        "text": "what time is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": true
+      },
+      {
+        "text": " my clock doesn\u0027t ",
+        "userDefined": false
+      },
+      {
+        "text": "work",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "161789c7-b558-49c3-b1ad-2243a99eb74a",
+    "data": [
+      {
+        "text": "time clock",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86940b35-abc1-4eee-a944-390dfec5bde1",
+    "data": [
+      {
+        "text": "what is the time ",
+        "userDefined": false
+      },
+      {
+        "text": "right now",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64cbc00a-5a77-44cb-b400-cbc25c1ba90e",
+    "data": [
+      {
+        "text": "tell me the time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "462778e4-b6d0-4bf7-8bc7-795a8ee15e20",
+    "data": [
+      {
+        "text": "time in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f98e664-cdd2-43bf-aea9-e7bed85746b6",
+    "data": [
+      {
+        "text": "can you tell the time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4038de5-6a42-4065-ac0a-0ce6d01ee2a5",
+    "data": [
+      {
+        "text": "can you tell me what time is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc4861f2-664d-4d97-acd7-ce3a6f5313b4",
+    "data": [
+      {
+        "text": "what\u0027s",
+        "userDefined": false
+      },
+      {
+        "text": " the time ",
+        "userDefined": false
+      },
+      {
+        "text": "right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b40dea82-3919-4b21-95f4-b3eef1a2da1c",
+    "data": [
+      {
+        "text": "is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "late",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4051737-fba6-4a82-96d7-540482c5ccab",
+    "data": [
+      {
+        "text": "what\u0027s the time now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12b8fd01-d7ad-46bf-ac75-ed97fcc5bc69",
+    "data": [
+      {
+        "text": "what time is it in ",
+        "userDefined": false
+      },
+      {
+        "text": "Mountain View",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b644187-62b8-46c1-a006-a242c68bee7c",
+    "data": [
+      {
+        "text": "can you tell me the time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "171d71c5-cdad-4b1e-8742-deb78ac429a9",
+    "data": [
+      {
+        "text": "ok what is the time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "858d5c04-e82b-4099-9993-a4b869251f8b",
+    "data": [
+      {
+        "text": "alright what time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2e69adc-33ab-4e5c-8f01-9018e0edc2f0",
+    "data": [
+      {
+        "text": "so what time is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e1f69fa-06d4-4e56-a500-31fae416f7c4",
+    "data": [
+      {
+        "text": "ok what time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7238456-3429-45b5-812e-c9219f58ea77",
+    "data": [
+      {
+        "text": "what time is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac087026-be17-4ef4-b9b9-d7051f46004c",
+    "data": [
+      {
+        "text": "hey ",
+        "userDefined": false
+      },
+      {
+        "text": "what\u0027s",
+        "userDefined": false
+      },
+      {
+        "text": " the time now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d1fa5de-aa37-4e1b-ac45-ee71d1512a15",
+    "data": [
+      {
+        "text": "hello",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "what\u0027s",
+        "userDefined": false
+      },
+      {
+        "text": " the time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e32fc83a-7563-4aca-85e3-288a90d4f49e",
+    "data": [
+      {
+        "text": "what time ",
+        "userDefined": false
+      },
+      {
+        "text": "right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e197a8ad-db4b-4dbd-a7dc-115f142a2193",
+    "data": [
+      {
+        "text": "you know what time is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3915e848-e40f-4e88-9310-390d48e2f7da",
+    "data": [
+      {
+        "text": "show me what time is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b866c02-e48d-456c-babc-547266a90651",
+    "data": [
+      {
+        "text": "tell me what time is it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9f5b7f4-8d0f-472a-9028-52819e540f90",
+    "data": [
+      {
+        "text": "show me the time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b054c982-2223-44c6-85ac-0d4788b8e8ac",
+    "data": [
+      {
+        "text": "tell the time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81572e39-fe55-48d7-9bef-71017a7efe69",
+    "data": [
+      {
+        "text": "what\u0027s the time in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04e30d5c-55ca-44d7-99c5-0b130cccdddc",
+    "data": [
+      {
+        "text": "tell me what is the time now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6fbb29f-262e-4d46-981f-cf47e028da11",
+    "data": [
+      {
+        "text": "what\u0027s the time in ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09138360-74b5-4d1e-9794-07bac7618aa4",
+    "data": [
+      {
+        "text": "London",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      },
+      {
+        "text": " time right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0331f3a3-94bd-4c47-b194-c6ac64340d2a",
+    "data": [
+      {
+        "text": "what\u0027s the time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2054c18a-cb52-4dca-a6b5-6b83983fa0a3",
+    "data": [
+      {
+        "text": "time ",
+        "userDefined": false
+      },
+      {
+        "text": "right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7afbbee-6037-4922-90a8-d4a894f9f7e1",
+    "data": [
+      {
+        "text": "can you tell me what time is it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc0bc71c-23ca-4677-b556-0932c6d6edce",
+    "data": [
+      {
+        "text": "I said what time is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63825d2f-5f69-45ad-b0a6-c739e484f285",
+    "data": [
+      {
+        "text": "what time ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": true
+      },
+      {
+        "text": " is",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "249a352d-f6d6-48ea-a34f-bb740b0c00b7",
+    "data": [
+      {
+        "text": "clock",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39610a64-ae90-450c-b359-5d22f8f5ad05",
+    "data": [
+      {
+        "text": "what\u0027s",
+        "userDefined": false
+      },
+      {
+        "text": " time ",
+        "userDefined": false
+      },
+      {
+        "text": "right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9dc4d4cb-bd07-4ebe-afb5-4a7392e282d3",
+    "data": [
+      {
+        "text": "current",
+        "userDefined": true
+      },
+      {
+        "text": " time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a5d5f2a-5a2c-4661-8abb-1d2b73874041",
+    "data": [
+      {
+        "text": "ok ",
+        "userDefined": false
+      },
+      {
+        "text": "what\u0027s",
+        "userDefined": false
+      },
+      {
+        "text": " the time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1bc4ae6-d826-4c0b-abcf-46bb0e36d2fe",
+    "data": [
+      {
+        "text": "tell me the time in ",
+        "userDefined": false
+      },
+      {
+        "text": "Bangalore",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48fb7bad-5c31-4d3b-9abc-c4a3fb0832ed",
+    "data": [
+      {
+        "text": "what is the time now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c45b052-8f7d-4ae6-a0ff-ff4c0aba2cac",
+    "data": [
+      {
+        "text": "what time is it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64ce93fe-3d3f-44ed-877a-2da8edb5eb98",
+    "data": [
+      {
+        "text": "what\u0027s",
+        "userDefined": false
+      },
+      {
+        "text": " the time please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4dd1609-7951-40e0-b276-93212209ed0a",
+    "data": [
+      {
+        "text": "what time is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50aac7e0-5581-465d-84a0-ef2addb9a5bf",
+    "data": [
+      {
+        "text": "what time is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e56de99d-937b-4ae9-a0ca-9e9a5a373372",
+    "data": [
+      {
+        "text": "ok what time is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b32e041-e9bc-4b1f-af7c-2b50adf7f9c9",
+    "data": [
+      {
+        "text": "what time is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b11183e-6001-4bdd-bf71-404220b5f564",
+    "data": [
+      {
+        "text": "and what time is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73728567-178b-4eb5-b13e-8654b967825a",
+    "data": [
+      {
+        "text": "current time in ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b157743-683a-45a4-a451-c3df42748e2c",
+    "data": [
+      {
+        "text": "what time is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "right now",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7baf6fc-f79b-4cea-9503-7fdb00fe053e",
+    "data": [
+      {
+        "text": "what is the time in",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "025d5143-a3c4-4b15-ab44-946a216ea605",
+    "data": [
+      {
+        "text": "so ",
+        "userDefined": false
+      },
+      {
+        "text": "what\u0027s",
+        "userDefined": false
+      },
+      {
+        "text": " the time now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4cbdf4e5-9b3e-473a-9bcb-0b2aed0255dd",
+    "data": [
+      {
+        "text": "what time is that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a7ad740-1e02-40c3-b2b2-ef2e5cf0869c",
+    "data": [
+      {
+        "text": "Vegas",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "time now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27eb39a7-c491-44fa-ab13-2baef632c3dc",
+    "data": [
+      {
+        "text": "hello",
+        "userDefined": false
+      },
+      {
+        "text": " what time is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22b5af53-7470-478d-887b-de1b69b7e38d",
+    "data": [
+      {
+        "text": "is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "late",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Paris",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df9dd283-a66a-4530-b2ee-11546ceb2669",
+    "data": [
+      {
+        "text": "how much time is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eca81590-a1e7-450a-b8d3-2e46ef99e494",
+    "data": [
+      {
+        "text": "time check",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9136e31-10ff-462c-9e3b-26ab57048130",
+    "data": [
+      {
+        "text": "what is the time in ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38fb587a-51e7-4ab0-8c96-b71ffe84fcae",
+    "data": [
+      {
+        "text": "do you know the time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52796aa2-cdc2-41d2-8638-1a15254f7ee7",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      },
+      {
+        "text": " time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85e6ec80-92c2-4d74-8b06-07be45e52d2f",
+    "data": [
+      {
+        "text": "do you know what time is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ade9d195-5263-4162-a50d-97c50b5f0806",
+    "data": [
+      {
+        "text": "you know what time ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": false
+      },
+      {
+        "text": " is",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3b6f4c3-5aab-4448-8273-ec291de370f4",
+    "data": [
+      {
+        "text": "check time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4532c0a-9b60-4b1b-9f9e-8c296e74263a",
+    "data": [
+      {
+        "text": "tell me the time please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46b4f4fc-88e6-43d5-b394-9b721004f9f8",
+    "data": [
+      {
+        "text": "what is the time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8a49e9f-cc14-4fc8-9641-5cf5b74bbc5d",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "current",
+        "userDefined": false
+      },
+      {
+        "text": " time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e189bb76-228f-489b-aeb2-a511408b7311",
+    "data": [
+      {
+        "text": "what\u0027s",
+        "userDefined": false
+      },
+      {
+        "text": " the time in",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9de48316-2fa7-437b-b94c-3ac2a34fa37e",
+    "data": [
+      {
+        "text": "time please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25eb60cd-baa7-466d-ad2f-28ac28773950",
+    "data": [
+      {
+        "text": "so what time is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": false
+      },
+      {
+        "text": " now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afbb83a5-a3d2-43ab-a6c2-fb096849d625",
+    "data": [
+      {
+        "text": "tell me what time is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06679352-731e-43f4-98e6-9fd3a914fca2",
+    "data": [
+      {
+        "text": "what\u0027s",
+        "userDefined": true
+      },
+      {
+        "text": " the time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b277644c-9e3d-4044-8f56-9c2e380a8780",
+    "data": [
+      {
+        "text": "so ",
+        "userDefined": false
+      },
+      {
+        "text": "what\u0027s",
+        "userDefined": false
+      },
+      {
+        "text": " the time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e9ef8d7-204a-4508-b0b7-a61e4c7173cc",
+    "data": [
+      {
+        "text": "hey what time is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08899a35-d051-461c-9d55-a728ab2e177b",
+    "data": [
+      {
+        "text": "show me the clock",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f16b4cf-33a7-47ed-abbb-da85552ee182",
+    "data": [
+      {
+        "text": "what time ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": false
+      },
+      {
+        "text": " is now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a97741c6-ab1c-4367-b6f7-8e1cc0290a96",
+    "data": [
+      {
+        "text": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08c2f317-5c0e-4275-b752-7d76f9d52e8a",
+    "data": [
+      {
+        "text": "is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": false
+      },
+      {
+        "text": " too ",
+        "userDefined": false
+      },
+      {
+        "text": "late",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e089325-287a-4aa3-b5b6-fbea15867c92",
+    "data": [
+      {
+        "text": "please tell me the time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0dc55edf-8daf-47f6-a21d-9a6a95a4b5e5",
+    "data": [
+      {
+        "text": "what time is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": false
+      },
+      {
+        "text": " there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a728e15-ae02-433f-98cc-fa9e35463d21",
+    "data": [
+      {
+        "text": "what is time ",
+        "userDefined": false
+      },
+      {
+        "text": "right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3056bcd6-bd95-4c15-807e-8ab41aaf886e",
+    "data": [
+      {
+        "text": "do u know what time is",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b348c83e-e725-44b3-b68a-41dbe6b52b0e",
+    "data": [
+      {
+        "text": "what time is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": true
+      },
+      {
+        "text": " now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "324936a1-eed5-4d51-a6cb-081b5626cad3",
+    "data": [
+      {
+        "text": "what time is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80bd86d4-372f-4b8d-a7d7-d6f438db16ba",
+    "data": [
+      {
+        "text": "is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": false
+      },
+      {
+        "text": " getting ",
+        "userDefined": false
+      },
+      {
+        "text": "late",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6743cae9-a4b4-4e2f-9434-00c8ac07c573",
+    "data": [
+      {
+        "text": "do you know what time ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": false
+      },
+      {
+        "text": " is",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4cb60a16-a205-415d-b874-3a337abbf303",
+    "data": [
+      {
+        "text": "what is the exact time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "858dfed5-13d3-42dd-a2dc-7682c12c461b",
+    "data": [
+      {
+        "text": "what the time now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6f8a510-fd25-4fc1-bc78-06d3c1207aa4",
+    "data": [
+      {
+        "text": "what\u0027s",
+        "userDefined": true
+      },
+      {
+        "text": " time now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

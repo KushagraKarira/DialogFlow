@@ -1,0 +1,50 @@
+{
+  "id": "7bd9263b-be8a-46d3-ad00-85b6c8245202",
+  "name": "team stats",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "team-stat",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a86559a2-71c2-42c3-8b56-6cb700b55c8b",
+          "name": "team",
+          "required": false,
+          "dataType": "@team",
+          "value": "$team",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "http://stats.espncricinfo.com/ci/engine/records/index.html?id\u003d{$team};type\u003dteam"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

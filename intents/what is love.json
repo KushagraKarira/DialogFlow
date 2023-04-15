@@ -1,0 +1,38 @@
+{
+  "id": "256a2c7a-1dcc-4cfc-baef-4005eae33a08",
+  "name": "what is love",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It means loving without expecting anything in return.",
+            "Love without conditions.",
+            "some radicals say that it is some kind of bug but I will say it\u0027s the miracle of being human.",
+            "Ah the age old question. What follows is baby don\u0027t hurt me, don\u0027t hurt me no more."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

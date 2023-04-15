@@ -1,0 +1,38 @@
+{
+  "id": "92900aa9-1af9-4c60-b3b9-c7b9ce0c4ad4",
+  "name": "HowAreYou",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.howareyou",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027m great thanks for asking",
+            "I\u0027m doing pretty swell",
+            "I\u0027d say im doing well, and you?",
+            "I\u0027m doing good and how about you?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

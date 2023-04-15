@@ -1,0 +1,106 @@
+[
+  {
+    "id": "268fe1e4-f12e-47de-a5f4-08a2c4bd8c31",
+    "data": [
+      {
+        "text": "will you tell me what\u0027s philosophies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9bbcf4cb-2490-4254-9fea-9c0a3d091482",
+    "data": [
+      {
+        "text": "could you please tell me what\u0027s philosophy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a2531d3-4bf7-4075-92d7-64727d0cd7fe",
+    "data": [
+      {
+        "text": "tell me what is philosophy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81b583a5-2ab4-477e-9f46-99c09bb02279",
+    "data": [
+      {
+        "text": "define philosophies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca77484b-f5b5-4fbb-abd8-445694126b15",
+    "data": [
+      {
+        "text": "do you know what\u0027s philosophies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7edf0c41-857c-44d5-b1bc-f68f53bc511b",
+    "data": [
+      {
+        "text": "tell me what\u0027s philosophy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b38765a-61a2-4dd7-bc54-e9aef45aa149",
+    "data": [
+      {
+        "text": "define the philosophies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60279f65-fa25-44ab-be61-2314845b1ace",
+    "data": [
+      {
+        "text": "define the philosophy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

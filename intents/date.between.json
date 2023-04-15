@@ -1,0 +1,85 @@
+{
+  "id": "3d9a9ad2-47b1-4de8-908c-398c5b006abd",
+  "name": "date.between",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "date.between",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "91bdf393-7f51-486b-bc1c-518dc75d9739",
+          "name": "date-1",
+          "required": false,
+          "dataType": "@sys.date",
+          "value": "$date-1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "db4f4f0e-20f9-4935-b33c-c5cdb51dc6b8",
+          "name": "date-2",
+          "required": false,
+          "dataType": "@sys.date",
+          "value": "$date-2",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "3d9a9d03-e85f-401f-8129-94191bf08c40",
+          "name": "unit",
+          "required": false,
+          "dataType": "@unit-time",
+          "value": "$unit",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-ca",
+          "speech": [
+            "There are $unit days in between."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

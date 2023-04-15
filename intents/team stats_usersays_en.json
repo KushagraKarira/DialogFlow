@@ -1,0 +1,244 @@
+[
+  {
+    "id": "7c3a08b5-f9d4-42ff-bbaf-ff58ca53cedd",
+    "data": [
+      {
+        "text": "Statistics for ",
+        "userDefined": false
+      },
+      {
+        "text": "Australian",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " team",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45fd13fd-fc78-4cfc-b2a6-5915314a3ef3",
+    "data": [
+      {
+        "text": "australian",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " team stats",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c84126c0-36d1-44d3-83c8-bb24473abf06",
+    "data": [
+      {
+        "text": "Australian",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " team stats",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e623d5c9-8d05-4b39-9bbf-7d12b006a6cc",
+    "data": [
+      {
+        "text": "stats for ",
+        "userDefined": false
+      },
+      {
+        "text": "Australian",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " team",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b32107f3-3180-406a-8156-afadf2ea7743",
+    "data": [
+      {
+        "text": "stats for ",
+        "userDefined": false
+      },
+      {
+        "text": "Australia",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2a3fb8b-091a-4ee8-9fe4-05bb19b11586",
+    "data": [
+      {
+        "text": "All statistics for the ",
+        "userDefined": false
+      },
+      {
+        "text": "Indian",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " team",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d0e3931-c20d-4ac5-9032-eb146fcd6484",
+    "data": [
+      {
+        "text": "WI",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " team statistics",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9880bc1f-ff4c-4ca1-84e8-dd087d83adce",
+    "data": [
+      {
+        "text": "England",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " team stats",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aff3bbdb-739f-452f-83e4-0ad656cdbb72",
+    "data": [
+      {
+        "text": "show me stats for the ",
+        "userDefined": false
+      },
+      {
+        "text": "england",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " team",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7bc17926-f775-4717-8361-03dc13439234",
+    "data": [
+      {
+        "text": "show me statistics for the ",
+        "userDefined": false
+      },
+      {
+        "text": "english",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " team",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24baa775-30c8-424e-92c2-b9fd7fbf5058",
+    "data": [
+      {
+        "text": "stats for ",
+        "userDefined": false
+      },
+      {
+        "text": "england",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c105e1b-931d-4d36-8332-5e24c4966329",
+    "data": [
+      {
+        "text": "show me stats for england",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

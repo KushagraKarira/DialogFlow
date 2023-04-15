@@ -1,0 +1,28 @@
+[
+  {
+    "id": "81d9eb9c-2663-438a-9aa9-b2b144fa1ace",
+    "data": [
+      {
+        "text": "Suggest username",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "604b3f0c-95c3-49ef-a195-dde6bb7d567c",
+    "data": [
+      {
+        "text": "username",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,275 @@
+[
+  {
+    "id": "d91132e9-536b-4dca-89ee-e716ff363cda",
+    "data": [
+      {
+        "text": "battery status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b556086-3257-4981-aa62-e495c1db43cb",
+    "data": [
+      {
+        "text": "how much battery I got left",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04e71b81-b699-4092-9b81-137c0395daf4",
+    "data": [
+      {
+        "text": "show my battery percentage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a880d856-b081-42a8-be19-521c4cf78353",
+    "data": [
+      {
+        "text": "what\u0027s my battery charge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83ba09ab-b22b-4e2e-9cb4-75c60da90d4d",
+    "data": [
+      {
+        "text": "battery life",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbdf13df-7d4d-4b1e-a2df-465063296bf1",
+    "data": [
+      {
+        "text": "is my battery low",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8fb3bd2-8b42-434a-8e74-243ee20dabe6",
+    "data": [
+      {
+        "text": "how is my battery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "124c4a61-bc32-4755-937c-d69eb6bf0007",
+    "data": [
+      {
+        "text": "how much battery do I have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7441c92d-96c9-4c12-beba-fb9d581105cb",
+    "data": [
+      {
+        "text": "how full is my battery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9adb2a9-0b25-48cb-afe3-4113191c3314",
+    "data": [
+      {
+        "text": "do I need to charge my battery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8af39fb2-3e40-4fa8-a317-832559ed020a",
+    "data": [
+      {
+        "text": "battery monitor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27da97d5-b24e-4c73-9198-5ba369b09c4a",
+    "data": [
+      {
+        "text": "is the battery charged",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "313cd05d-36eb-440c-a679-2cc3ac7d3ab4",
+    "data": [
+      {
+        "text": "battery level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e665242-41d1-4e8e-9d6d-db7f709912d7",
+    "data": [
+      {
+        "text": "check battery level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1e70639-d2eb-4a86-a845-1ea482b72bcf",
+    "data": [
+      {
+        "text": "how low is my battery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc38875f-7452-4ad0-a9cf-d6750bb19645",
+    "data": [
+      {
+        "text": "what\u0027s my battery level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c562ae6-44ad-432f-b904-47d765c00c1d",
+    "data": [
+      {
+        "text": "do I need to recharge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e953d4a-e414-47ae-a213-dc44c869ec88",
+    "data": [
+      {
+        "text": "how much battery is remaining",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "858eb63b-324b-4d45-8964-e337c28bdc7a",
+    "data": [
+      {
+        "text": "what is my battery percentage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5c90fb2-6797-41af-8ade-a9ac47d48723",
+    "data": [
+      {
+        "text": "how much battery power do I have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39afce23-bd41-453c-8ab0-9466b2d2289a",
+    "data": [
+      {
+        "text": "can you check my battery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

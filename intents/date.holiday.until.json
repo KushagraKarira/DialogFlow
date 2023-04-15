@@ -1,0 +1,61 @@
+{
+  "id": "489c6ebd-482b-4e67-ae30-2168ebf99356",
+  "name": "date.holiday.until",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "date.holiday.until",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ad53c68f-66d3-403a-9cd5-a6ba7a88a2d7",
+          "name": "holiday",
+          "required": false,
+          "dataType": "@holiday",
+          "value": "$holiday",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "016f445c-98e8-4b31-ac24-01711929f44d",
+          "name": "unit",
+          "required": false,
+          "dataType": "@unit-time",
+          "value": "$unit",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

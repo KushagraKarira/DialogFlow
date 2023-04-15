@@ -1,0 +1,34 @@
+[
+  {
+    "id": "9d5f866b-761b-46ce-a509-8029e26d5c3d",
+    "data": [
+      {
+        "text": " why is the sky ",
+        "userDefined": false
+      },
+      {
+        "text": "blue",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "252a1af4-82d7-4f7c-b7fb-b17d74c1fd2c",
+    "data": [
+      {
+        "text": "what color is the sky",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

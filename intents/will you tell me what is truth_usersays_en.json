@@ -1,0 +1,80 @@
+[
+  {
+    "id": "d3f14d86-b479-4480-abb5-778131dbacbc",
+    "data": [
+      {
+        "text": "will you tell me what is truth",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "526bc757-8a69-4386-8c81-f0594c1a7aa4",
+    "data": [
+      {
+        "text": "will you please tell me what\u0027s truth",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a08a358d-70f9-41bd-99ee-58f9f9164aec",
+    "data": [
+      {
+        "text": " tell me what is truth",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "496d74c4-a6fd-44ff-a8bf-8cd2295f44c8",
+    "data": [
+      {
+        "text": " tell me what\u0027s truth",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ac040ea-61dd-47f3-b1f0-5a7e0c5d5ebb",
+    "data": [
+      {
+        "text": "define word truth",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c9985fc-b57c-4374-af19-3d29d9fa1aca",
+    "data": [
+      {
+        "text": "define the truth",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

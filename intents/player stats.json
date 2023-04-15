@@ -1,0 +1,50 @@
+{
+  "id": "5766471e-de0b-4541-821a-b9e14138b573",
+  "name": "player stats",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "show-player-stat",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ccb123e9-1b26-4016-9f56-8c455d46feb0",
+          "name": "player",
+          "required": false,
+          "dataType": "@player",
+          "value": "$player",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "http://www.espncricinfo.com/ci/content/player/{$player}.html"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,53 @@
+{
+  "id": "e9000be7-9fdd-4d68-992c-5522c1a064ec",
+  "name": "name.agent.feedback.bad",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "name.agent.feedback.bad",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6e45c2a5-a7d3-4abf-8017-34433044ba49",
+          "name": "type",
+          "required": false,
+          "dataType": "@name-type",
+          "value": "$type",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027m so sorry you don\u0027t like it.",
+            "What a shame.",
+            "I didn\u0027t even choose it, others gave it to me.",
+            "It was not me who chose name, but the people who made me."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "55244fc7-7571-435a-bba6-6cd467b3cab0",
+  "name": "data-plans",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

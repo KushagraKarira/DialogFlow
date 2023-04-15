@@ -1,0 +1,37 @@
+{
+  "id": "4db3468d-7304-4a15-ad74-23d78f103726",
+  "name": "Suicide.help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.suicide",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You\u0027re not alone. We want to [help](http://chat.suicidepreventionlifeline.org/GetHelp/LifelineChat.aspx)",
+            "You\u0027re not alone we want to help\u0027 please call 1-800-273-8255, or click [help](http://chat.suicidepreventionlifeline.org/GetHelp/LifelineChat.aspx) for more help.",
+            "Joking right ? You can\u0027t leave me alone like this, forgive me and please stay"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

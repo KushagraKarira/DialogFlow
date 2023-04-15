@@ -1,0 +1,54 @@
+{
+  "id": "c66949a2-07ef-4032-9fe6-783fadebe888",
+  "name": "Delivery time",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "support.delivery",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can check the estimated delivery time on the Deliver page of our website.",
+            "The delivery time-line is available for tracking at our website.",
+            "You will soon get an e-mail with the details. Alternatively, you can also view the same on our website."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "slack",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "http://example.com/delivery",
+              "text": "Delivery"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

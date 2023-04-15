@@ -1,0 +1,49 @@
+[
+  {
+    "id": "3d6c4afa-e411-4d20-bbbb-8d37e907b85f",
+    "data": [
+      {
+        "text": "i wish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92785c76-94e0-47ba-bbfe-36d5d0de2bdd",
+    "data": [
+      {
+        "text": "8149791156",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61cdde2a-9195-469f-8575-2b0ebe793218",
+    "data": [
+      {
+        "text": "My mobile number is ",
+        "userDefined": false
+      },
+      {
+        "text": "8149791156",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

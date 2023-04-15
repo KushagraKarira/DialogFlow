@@ -1,0 +1,171 @@
+[
+  {
+    "id": "d6d0c183-bc00-4b2a-8e17-2095e443894e",
+    "data": [
+      {
+        "text": "check my plan coverage for ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b096a36f-9f73-475a-bc08-72002c7c0a8f",
+    "data": [
+      {
+        "text": "coverage in ",
+        "userDefined": false
+      },
+      {
+        "text": "Toronto",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51bec253-1117-492b-91bf-297598ba1007",
+    "data": [
+      {
+        "text": "will I be covered in ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "next months",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82a9b73d-0144-476c-8579-8f28ef966ddb",
+    "data": [
+      {
+        "text": "I\u0027m traveling ",
+        "userDefined": false
+      },
+      {
+        "text": "next week",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Europe",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      },
+      {
+        "text": ", what are my options?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43a8b799-bc9b-4ff0-ac1a-dcf8c9840b8e",
+    "data": [
+      {
+        "text": "I\u0027m going to ",
+        "userDefined": false
+      },
+      {
+        "text": "Italy",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "next week",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": ", will I be covered?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32950794-fccc-478d-a79d-f9f705dd73a5",
+    "data": [
+      {
+        "text": "will my plan cover my expenses during my business trip?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb5705af-a180-419f-b29f-72ab9d8b0960",
+    "data": [
+      {
+        "text": "I\u0027m going to ",
+        "userDefined": false
+      },
+      {
+        "text": "USA",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      },
+      {
+        "text": " do you offer coverage there?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

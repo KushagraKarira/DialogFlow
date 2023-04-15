@@ -1,0 +1,9 @@
+{
+  "id": "e31d6c5e-8cee-4d67-9b5a-4df3968a5e82",
+  "name": "device-action",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

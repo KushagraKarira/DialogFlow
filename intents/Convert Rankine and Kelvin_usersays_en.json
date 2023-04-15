@@ -1,0 +1,62 @@
+[
+  {
+    "id": "e3139d2a-cfe9-4585-9f8e-81f7ba5415dc",
+    "data": [
+      {
+        "text": "Kelvin",
+        "meta": "@absoluteTempUnit",
+        "alias": "absoluteTempUnit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d9eb90b-6f11-4a55-b83d-33878041f418",
+    "data": [
+      {
+        "text": "Rankine",
+        "meta": "@absoluteTempUnit",
+        "alias": "absoluteTempUnit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0707caed-e70a-4d3e-a0a7-b10365bcd568",
+    "data": [
+      {
+        "text": "K",
+        "meta": "@absoluteTempUnit",
+        "alias": "absoluteTempUnit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dbdc6612-f919-4c5b-81e1-5610421a74e7",
+    "data": [
+      {
+        "text": "R",
+        "meta": "@absoluteTempUnit",
+        "alias": "absoluteTempUnit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  }
+]

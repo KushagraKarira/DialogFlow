@@ -1,0 +1,150 @@
+[
+  {
+    "id": "7c19d351-438c-434c-94ea-9295d83141b0",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "in a week",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee9b96ec-1f56-461a-8a0d-6bdadb6cce0c",
+    "data": [
+      {
+        "text": "how about ",
+        "userDefined": false
+      },
+      {
+        "text": "Thursday",
+        "meta": "@dayofweek",
+        "alias": "dayofweek",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47768064-a673-4662-9670-faa60e305e31",
+    "data": [
+      {
+        "text": "next Friday",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39baa1a2-4d99-4f6d-a4d3-6c728d36861b",
+    "data": [
+      {
+        "text": "what about ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday",
+        "meta": "@dayofweek",
+        "alias": "dayofweek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b354f9c-c6c2-4ecd-8eee-16e586dc6927",
+    "data": [
+      {
+        "text": "could you check it for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b09d5d3-c87f-40d5-a252-a75b3f327da9",
+    "data": [
+      {
+        "text": "now ",
+        "userDefined": false
+      },
+      {
+        "text": "Wednesday",
+        "meta": "@dayofweek",
+        "alias": "dayofweek",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51ee2a3e-6754-462f-8e33-4c2210a2de6a",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "Tuesday",
+        "meta": "@dayofweek",
+        "alias": "dayofweek",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7fb6e246-65fe-4e9d-b90d-986d92e4ea9c",
+    "data": [
+      {
+        "text": "what about a ",
+        "userDefined": false
+      },
+      {
+        "text": "month later",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

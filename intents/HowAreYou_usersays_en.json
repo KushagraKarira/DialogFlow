@@ -1,0 +1,106 @@
+[
+  {
+    "id": "d0858f9a-e452-4541-b440-2cd18a23d53c",
+    "data": [
+      {
+        "text": "How are you doing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c01bad8d-5c0e-4fdc-88f4-0832d8ee9227",
+    "data": [
+      {
+        "text": "How is your day going?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e380d8c-5bc7-425e-af53-22cb14f04864",
+    "data": [
+      {
+        "text": "How is your morning?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7a91590-d2fb-4f32-a754-5a5410775166",
+    "data": [
+      {
+        "text": "You ok?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64eabca8-c224-434d-aa36-227e0eb75feb",
+    "data": [
+      {
+        "text": "How is your day?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45e2a9a2-dd3e-45c7-9fcb-457a57e0f914",
+    "data": [
+      {
+        "text": "How is your evening?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87701d50-08e9-4384-9b3d-087d523613ee",
+    "data": [
+      {
+        "text": "How are you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3dddf142-a60f-4a3f-8056-c98962509036",
+    "data": [
+      {
+        "text": "How is everything?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

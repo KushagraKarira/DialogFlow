@@ -1,0 +1,90 @@
+{
+  "id": "fda02c7a-e478-495a-a649-adb01658b6d0",
+  "name": "Ava.Swear",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.swear",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c98fe6ad-3554-4e04-a847-77ad4bf52aa7",
+          "name": "Swear",
+          "required": false,
+          "dataType": "@Swear",
+          "value": "$Swear",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Fuck"
+            },
+            {
+              "lang": "en",
+              "value": "Bitch"
+            },
+            {
+              "lang": "en",
+              "value": "Ass"
+            },
+            {
+              "lang": "en",
+              "value": "Nigger"
+            },
+            {
+              "lang": "en",
+              "value": "Shit"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "de1f66d2-d3b7-4c4f-b20f-de5fd179b757",
+          "name": "Swear1",
+          "required": false,
+          "dataType": "@Swear",
+          "value": "$Swear1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You better watch your language.",
+            "You better change that damn tone ;)",
+            "Please watch the language.",
+            "Ouch that hurt my feelings :(",
+            "Thats a mean thing to say :p",
+            "Why would you say that :p"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

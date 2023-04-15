@@ -1,0 +1,59 @@
+{
+  "id": "6f1cfb4b-dc9b-41cc-9be8-e86ab1539b47",
+  "name": "language.agent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "language.agent",
+      "affectedContexts": [
+        {
+          "name": "language-agent",
+          "lifespan": 5,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b01c15f7-fe12-4963-813b-0d261aacd94b",
+          "name": "language",
+          "required": false,
+          "dataType": "@sys.language",
+          "value": "$language",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can go to options menu to see what languages i speak.",
+            "Please go to settings and see full list of languages i know.",
+            "You can see in options menu all languages i speak and select the language you prefer.",
+            "In the options menu you have Assistant language option and there you can see all languages i speak and select the desired language."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

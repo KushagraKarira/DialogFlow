@@ -1,0 +1,38 @@
+{
+  "id": "d6c87f4c-bd35-4f0a-8d69-f6984eae6424",
+  "name": "Color",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.color",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I prefer any color that makes you happy.",
+            "I like any color that the world offers.",
+            "I\u0027m a AI so i can\u0027t see color but be free to imagine me liking any color.",
+            "As a bot I can\u0027t see color but from how i look it looks like I love Green."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

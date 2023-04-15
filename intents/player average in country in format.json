@@ -1,0 +1,78 @@
+{
+  "id": "3adec586-1e80-4239-84a3-db9b91d0158d",
+  "name": "player average in country in format",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "441a52a7-15a8-41f5-9a1f-04433eb3eb7a",
+          "name": "player",
+          "required": false,
+          "dataType": "@player",
+          "value": "$player",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ed8a802d-292a-42f1-acfc-e92728332b0f",
+          "name": "match-type",
+          "required": false,
+          "dataType": "@match-type",
+          "value": "$match-type",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "29f1f572-9cf7-47a2-8544-9663621dfd42",
+          "name": "team",
+          "required": false,
+          "dataType": "@team",
+          "value": "$team",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "http://stats.espncricinfo.com/ci/engine/player/{$player}.html?class\u003d{$match-type};filter\u003dadvanced;host\u003d{$team};opposition\u003d{$team};orderby\u003ddefault;template\u003dresults;type\u003dallround"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

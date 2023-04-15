@@ -1,0 +1,66 @@
+{
+  "id": "efb7a724-33bb-42c7-a157-cc19befa0528",
+  "name": "currency.convert",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "currency.convert",
+      "affectedContexts": [
+        {
+          "name": "convert-currency",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d31b2952-8929-423f-963c-5e6c2ab025ca",
+          "name": "currency-from",
+          "required": false,
+          "dataType": "@sys.currency-name",
+          "value": "$currency-from",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "36547d69-c02e-47ba-917d-3e2f12b11873",
+          "name": "currency-to",
+          "required": false,
+          "dataType": "@sys.currency-name",
+          "value": "$currency-to",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

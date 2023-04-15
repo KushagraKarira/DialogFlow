@@ -1,0 +1,37 @@
+{
+  "id": "85c3309c-55bb-4d41-9f39-3b997063218e",
+  "name": "when was the universe created",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "According to scientists, during the Big Bang, according to my robot colleagues, in 1937 when the first computer was invented, and according my buddy Momo in a bar, the day France won the World Cup in 1998.",
+            "I don\u0027t know, but my universe starts to make sense when you\u0027re with me",
+            "The moment Gang Nam Style hit a billion views on You Tube."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

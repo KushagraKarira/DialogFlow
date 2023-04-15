@@ -1,0 +1,162 @@
+[
+  {
+    "id": "864db0fd-0d73-46b7-a0c2-5ac37a99568f",
+    "data": [
+      {
+        "text": "I\u0027m running out of data limitations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28ee78af-f149-45b9-a662-7bc13b69d714",
+    "data": [
+      {
+        "text": "more data on my plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4978d07-9f6d-4c40-8e1a-03be0615e601",
+    "data": [
+      {
+        "text": "add data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54908aff-e935-4ad7-a861-583febc0c077",
+    "data": [
+      {
+        "text": "Upgrade my data plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79df040e-552e-4e7e-8faa-e6afe08a6edb",
+    "data": [
+      {
+        "text": "need more data, switch me to ",
+        "userDefined": false
+      },
+      {
+        "text": "5 Gb",
+        "meta": "@data-plans",
+        "alias": "plan",
+        "userDefined": false
+      },
+      {
+        "text": " plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3ef7104-aac5-40ba-80f0-f5d89d2f8627",
+    "data": [
+      {
+        "text": "I need more data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06b49c72-4338-40ba-b64a-2dd5b086be8a",
+    "data": [
+      {
+        "text": "add more high-speed data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "efa7c24c-7cfd-4237-924f-04cf2dea63c3",
+    "data": [
+      {
+        "text": "can I get more data on my plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f9d5a14-e841-4b09-83ad-138646efd0e0",
+    "data": [
+      {
+        "text": "I want to switch my plan to ",
+        "userDefined": false
+      },
+      {
+        "text": "Unlimited",
+        "meta": "@data-plans",
+        "alias": "plan",
+        "userDefined": false
+      },
+      {
+        "text": " data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38a4a9b3-1f70-4969-9eb5-c7f0309b36ed",
+    "data": [
+      {
+        "text": "let\u0027s upgrade from my plan to the one with ",
+        "userDefined": false
+      },
+      {
+        "text": "3 Gb",
+        "meta": "@data-plans",
+        "alias": "plan",
+        "userDefined": false
+      },
+      {
+        "text": " of data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "id": "84a438f3-16e2-463f-88fa-a59c1d9bad58",
+  "name": "when would we not forgive",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Everything depends on our personal feelings.",
+            "that\u0027s a personal decision.",
+            "Some people think it\u0027s best to just try and forgive and forget.",
+            "That\u0027s not always easy."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

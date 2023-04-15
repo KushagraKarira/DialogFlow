@@ -1,0 +1,9 @@
+{
+  "id": "784cac91-78f2-453b-a7f1-40ce2beb5d2f",
+  "name": "temperature",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

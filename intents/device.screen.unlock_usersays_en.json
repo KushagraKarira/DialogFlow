@@ -1,0 +1,132 @@
+[
+  {
+    "id": "8a1b41f2-e693-4057-b4fe-ada35d78344c",
+    "data": [
+      {
+        "text": "unlock lock screen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d4eef6b-38d0-413a-98c0-d98803457eeb",
+    "data": [
+      {
+        "text": "can you unlock the screen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "baa23099-93d0-4109-99fe-c03bf6be2613",
+    "data": [
+      {
+        "text": "unlock the screen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5b87d3c-15f6-4e4a-9a2e-7351faa4c45d",
+    "data": [
+      {
+        "text": "disable lock screen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e81d011-387f-4a4e-819d-efa1c6e03b35",
+    "data": [
+      {
+        "text": "unlock the phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "508b71bf-cd8d-482d-bbc4-36def33e8f74",
+    "data": [
+      {
+        "text": "disable screen lock",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74b9ee93-66c9-49cc-947e-2f43c2f17cfb",
+    "data": [
+      {
+        "text": "unlock my screen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "793c0431-d5a4-4beb-8687-944f86c570b2",
+    "data": [
+      {
+        "text": "turn off screen lock",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdbea460-3bc8-406d-aa9c-04807c447e92",
+    "data": [
+      {
+        "text": "unlock the home screen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9666cb7-02da-4b77-a61d-f28787b0c16b",
+    "data": [
+      {
+        "text": "screen unlock",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

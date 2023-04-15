@@ -1,0 +1,67 @@
+[
+  {
+    "id": "5583e3b5-32c1-443b-aa51-88d9d9ee6b78",
+    "data": [
+      {
+        "text": "hate my phone need a new one",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1d2b961-46ce-41e3-a500-d31e1d53d91c",
+    "data": [
+      {
+        "text": "My phone isn\u0027t working",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d429a23-65c5-45cf-88c7-15b82c8b5c7b",
+    "data": [
+      {
+        "text": "Can I upgrade my phone?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02964645-ccd0-41da-9b13-dd8fbc9c301e",
+    "data": [
+      {
+        "text": "I\u0027d like to get a new phone.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9605f22e-8f28-4dab-a0aa-bbabf941b71e",
+    "data": [
+      {
+        "text": "I want a new phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

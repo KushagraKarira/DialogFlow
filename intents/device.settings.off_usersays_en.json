@@ -1,0 +1,301 @@
+[
+  {
+    "id": "746ac455-d099-4206-aef9-6ef9c8f9e96a",
+    "data": [
+      {
+        "text": "disconnect ",
+        "userDefined": false
+      },
+      {
+        "text": "Wi-Fi",
+        "meta": "@device-module",
+        "alias": "module",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "856b5c34-4abb-417a-a081-0b4721f11d0d",
+    "data": [
+      {
+        "text": "from now on ",
+        "userDefined": false
+      },
+      {
+        "text": "GPS",
+        "meta": "@device-module",
+        "alias": "module",
+        "userDefined": true
+      },
+      {
+        "text": " off",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8df3398-f5de-4d7f-9373-1295ddec7521",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "off",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "meta": "@device-module",
+        "alias": "module",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a27b101d-d9e1-44b4-a444-e1df061c91c7",
+    "data": [
+      {
+        "text": "shut down ",
+        "userDefined": false
+      },
+      {
+        "text": "GPS",
+        "meta": "@device-module",
+        "alias": "module",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b160bd76-979e-4bc6-b706-73257ab05ab8",
+    "data": [
+      {
+        "text": "deactivate ",
+        "userDefined": false
+      },
+      {
+        "text": "silent",
+        "meta": "@device-module",
+        "alias": "module",
+        "userDefined": false
+      },
+      {
+        "text": " mode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ccd3828-1686-4a87-b18a-7a502ee73b3c",
+    "data": [
+      {
+        "text": "switch ",
+        "userDefined": false
+      },
+      {
+        "text": "off",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "airplane mode",
+        "meta": "@device-module",
+        "alias": "module",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c232f69-daa3-4c70-bdd0-a1316c7a4a85",
+    "data": [
+      {
+        "text": "power ",
+        "userDefined": false
+      },
+      {
+        "text": "off",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Bluetooth",
+        "meta": "@device-module",
+        "alias": "module",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0023d2ba-6865-42c8-af24-f78c9c398de8",
+    "data": [
+      {
+        "text": "disable ",
+        "userDefined": false
+      },
+      {
+        "text": "mobile",
+        "meta": "@device-module",
+        "alias": "module",
+        "userDefined": false
+      },
+      {
+        "text": " data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d002f5a-9858-411a-aed4-44c1523da4f5",
+    "data": [
+      {
+        "text": "off",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "Bluetooth",
+        "meta": "@device-module",
+        "alias": "module",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8091d0a-fde0-44c2-af72-cfbdddee1c18",
+    "data": [
+      {
+        "text": "GPS",
+        "meta": "@device-module",
+        "alias": "module",
+        "userDefined": true
+      },
+      {
+        "text": " off now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7380b38c-09a9-4f80-b8e7-d046231c3aea",
+    "data": [
+      {
+        "text": "close ",
+        "userDefined": false
+      },
+      {
+        "text": "GPS",
+        "meta": "@device-module",
+        "alias": "module",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d2f608c-0a32-449e-9190-33b6748e9274",
+    "data": [
+      {
+        "text": "can you turn ",
+        "userDefined": false
+      },
+      {
+        "text": "off",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "silent",
+        "meta": "@device-module",
+        "alias": "module",
+        "userDefined": false
+      },
+      {
+        "text": " mode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2884186f-b7ba-47d2-b104-75556c55cf78",
+    "data": [
+      {
+        "text": "I\u0027d like to turn off my ",
+        "userDefined": false
+      },
+      {
+        "text": "GPS",
+        "meta": "@device-module",
+        "alias": "module",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

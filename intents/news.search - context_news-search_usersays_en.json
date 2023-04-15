@@ -1,0 +1,270 @@
+[
+  {
+    "id": "70d0e8e6-26fe-4539-97ac-45081500626c",
+    "data": [
+      {
+        "text": "now",
+        "userDefined": false
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "BBC",
+        "meta": "@news-source",
+        "alias": "source",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fb772a8-35e1-4b50-8915-16d26e99b6b3",
+    "data": [
+      {
+        "text": "CNN",
+        "meta": "@news-source",
+        "alias": "source",
+        "userDefined": false
+      },
+      {
+        "text": " too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8f4ecbe-f122-4a14-ae31-34f9f2f36f72",
+    "data": [
+      {
+        "text": "now",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "CNN",
+        "meta": "@news-source",
+        "alias": "source",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb81b9b4-c18d-48cb-831d-b6c85be94d40",
+    "data": [
+      {
+        "text": "from ",
+        "userDefined": false
+      },
+      {
+        "text": "BBC",
+        "meta": "@news-source",
+        "alias": "source",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae9b8b78-8ca5-4bf1-b1a7-7af254916b66",
+    "data": [
+      {
+        "text": "also from ",
+        "userDefined": false
+      },
+      {
+        "text": "BBC",
+        "meta": "@news-source",
+        "alias": "source",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbd046e5-b902-41a3-ac7a-7d9a523d778e",
+    "data": [
+      {
+        "text": "from ",
+        "userDefined": false
+      },
+      {
+        "text": "BBC",
+        "meta": "@news-source",
+        "alias": "source",
+        "userDefined": true
+      },
+      {
+        "text": " also",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b15f274-682b-40c0-b569-e352d054e98d",
+    "data": [
+      {
+        "text": "CNN",
+        "meta": "@news-source",
+        "alias": "source",
+        "userDefined": false
+      },
+      {
+        "text": " as ",
+        "userDefined": false
+      },
+      {
+        "text": "well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "936e659b-75e8-48cc-8435-34ede0ff0e22",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "CNN",
+        "meta": "@news-source",
+        "alias": "source",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e78c0803-a793-469f-8f6f-14cd74e1d1a9",
+    "data": [
+      {
+        "text": "now the ones",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "form",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "BBC",
+        "meta": "@news-source",
+        "alias": "source",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0cc842f2-10c3-46e8-8db5-030f9a25121f",
+    "data": [
+      {
+        "text": "how about ",
+        "userDefined": false
+      },
+      {
+        "text": "CNN",
+        "meta": "@news-source",
+        "alias": "source",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "547885b4-85e0-4a09-862a-98a83e19f8ce",
+    "data": [
+      {
+        "text": "now from ",
+        "userDefined": false
+      },
+      {
+        "text": "ABC",
+        "meta": "@news-source",
+        "alias": "source",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42027f17-baf9-4ffc-93af-8a1f71f4513d",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "BBC",
+        "meta": "@news-source",
+        "alias": "source",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

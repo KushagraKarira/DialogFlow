@@ -1,0 +1,41 @@
+[
+  {
+    "value": "1",
+    "synonyms": [
+      "test",
+      "test matches",
+      "tests"
+    ]
+  },
+  {
+    "value": "2",
+    "synonyms": [
+      "ODI",
+      "ODI games",
+      "ODI match",
+      "ODIs",
+      "odi",
+      "odi games",
+      "odi international",
+      "odi match",
+      "odis",
+      "one day",
+      "one day international",
+      "one day international match",
+      "one day match",
+      "one dayers",
+      "onedayers"
+    ]
+  },
+  {
+    "value": "3",
+    "synonyms": [
+      "T20",
+      "T20 games",
+      "T20 matches",
+      "t20",
+      "twenty 20",
+      "twenty20"
+    ]
+  }
+]

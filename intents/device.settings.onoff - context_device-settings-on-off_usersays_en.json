@@ -1,0 +1,151 @@
+[
+  {
+    "id": "081c214a-f7d4-4666-9154-e4dadadcdeec",
+    "data": [
+      {
+        "text": "Bluetooth",
+        "meta": "@device-module",
+        "alias": "module",
+        "userDefined": false
+      },
+      {
+        "text": " also",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46cd09bb-8628-46f1-9da1-f78dac71294f",
+    "data": [
+      {
+        "text": "now",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "silent mode",
+        "meta": "@device-module",
+        "alias": "module",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebea7363-ddb4-4420-941c-99d543cdfc0a",
+    "data": [
+      {
+        "text": "power saving mode",
+        "meta": "@device-module",
+        "alias": "module",
+        "userDefined": false
+      },
+      {
+        "text": " too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "988219b5-6a14-421b-b4c9-27f88479916b",
+    "data": [
+      {
+        "text": "GPS",
+        "meta": "@device-module",
+        "alias": "module",
+        "userDefined": true
+      },
+      {
+        "text": " as ",
+        "userDefined": false
+      },
+      {
+        "text": "well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb47bb8b-2dcf-40a2-bbd0-ca1ca5a9306c",
+    "data": [
+      {
+        "text": "also ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "meta": "@device-module",
+        "alias": "module",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4859a57-74de-4b82-b1a5-4e55208a674f",
+    "data": [
+      {
+        "text": "flight mode",
+        "meta": "@device-module",
+        "alias": "module",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aaef90ce-3fd3-415d-94b5-e7d2304d46ed",
+    "data": [
+      {
+        "text": "mobile data",
+        "meta": "@device-module",
+        "alias": "module",
+        "userDefined": true
+      },
+      {
+        "text": " as ",
+        "userDefined": false
+      },
+      {
+        "text": "well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

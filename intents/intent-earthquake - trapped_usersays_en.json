@@ -1,0 +1,93 @@
+[
+  {
+    "id": "5c03ab28-e6f6-444d-8886-fa5f23f64ab5",
+    "data": [
+      {
+        "text": "trapped",
+        "meta": "@disaster-earthquake-situation",
+        "alias": "disaster-earthquake-situation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebde1845-73f8-44eb-b3f1-c2bdd3a46941",
+    "data": [
+      {
+        "text": "we are ",
+        "userDefined": false
+      },
+      {
+        "text": "trying to get out",
+        "meta": "@disaster-earthquake-situation",
+        "alias": "disaster-earthquake-situation",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "adf4f2ba-a2e1-480e-ba06-057550baf82f",
+    "data": [
+      {
+        "text": "i ",
+        "userDefined": false
+      },
+      {
+        "text": "cannot move",
+        "meta": "@disaster-earthquake-situation",
+        "alias": "disaster-earthquake-situation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95007199-0a41-40eb-966a-1525433f2b14",
+    "data": [
+      {
+        "text": "i am ",
+        "userDefined": false
+      },
+      {
+        "text": "stuck",
+        "meta": "@disaster-earthquake-situation",
+        "alias": "disaster-earthquake-situation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d601eaf-7d39-438f-99a0-c95394bf96a8",
+    "data": [
+      {
+        "text": "i am ",
+        "userDefined": false
+      },
+      {
+        "text": "trapped",
+        "meta": "@disaster-earthquake-situation",
+        "alias": "disaster-earthquake-situation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

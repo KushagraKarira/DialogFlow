@@ -1,0 +1,106 @@
+[
+  {
+    "id": "0dbda774-eb9a-4f48-8ce7-06dc82224aed",
+    "data": [
+      {
+        "text": "spell your name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a36da634-0149-4bf2-a702-27072593c8cf",
+    "data": [
+      {
+        "text": "your ",
+        "userDefined": false
+      },
+      {
+        "text": "middle name",
+        "meta": "@name-type",
+        "alias": "name-type",
+        "userDefined": true
+      },
+      {
+        "text": " spelling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6a357f4-9abb-4d65-8874-883f83fd208a",
+    "data": [
+      {
+        "text": "spell me your ",
+        "userDefined": false
+      },
+      {
+        "text": "last name",
+        "meta": "@name-type",
+        "alias": "name-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee349d8e-d634-46d5-9f5e-021b808ff4d1",
+    "data": [
+      {
+        "text": "how is your name spelled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1332f37f-646a-4f98-bcd9-56ee4575db1b",
+    "data": [
+      {
+        "text": "how is your ",
+        "userDefined": false
+      },
+      {
+        "text": "nickname",
+        "meta": "@name-type",
+        "alias": "name-type",
+        "userDefined": true
+      },
+      {
+        "text": " spelled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "198a1c9b-0ad4-4ed6-9139-bfb2cab58481",
+    "data": [
+      {
+        "text": "your name spelling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,383 @@
+[
+  {
+    "id": "9df923d2-4143-471c-96f8-ea4fdaaee523",
+    "data": [
+      {
+        "text": "how ",
+        "userDefined": false
+      },
+      {
+        "text": "many",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hours",
+        "meta": "@unit-time",
+        "alias": "unit",
+        "userDefined": true
+      },
+      {
+        "text": " do ",
+        "userDefined": false
+      },
+      {
+        "text": "we",
+        "userDefined": false
+      },
+      {
+        "text": " have until ",
+        "userDefined": false
+      },
+      {
+        "text": "New Year",
+        "meta": "@holiday",
+        "alias": "holiday",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1c859a7-3842-4346-ac8f-eb23964106ba",
+    "data": [
+      {
+        "text": "days",
+        "meta": "@unit-time",
+        "alias": "unit",
+        "userDefined": false
+      },
+      {
+        "text": " until ",
+        "userDefined": false
+      },
+      {
+        "text": "Labour Day",
+        "meta": "@holiday",
+        "alias": "holiday",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8cd0f01b-1061-4059-84c5-d761eaa2774e",
+    "data": [
+      {
+        "text": "check how many ",
+        "userDefined": false
+      },
+      {
+        "text": "days",
+        "meta": "@unit-time",
+        "alias": "unit",
+        "userDefined": true
+      },
+      {
+        "text": " left until ",
+        "userDefined": false
+      },
+      {
+        "text": "Columbus Day",
+        "meta": "@holiday",
+        "alias": "holiday",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c202d4f1-107c-49ce-9c71-426d4781a9f0",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "days",
+        "meta": "@unit-time",
+        "alias": "unit",
+        "userDefined": true
+      },
+      {
+        "text": " until ",
+        "userDefined": false
+      },
+      {
+        "text": "Christmas",
+        "meta": "@holiday",
+        "alias": "holiday",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0696ffc-9850-4196-bcf6-fb23ecb5198c",
+    "data": [
+      {
+        "text": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "days",
+        "meta": "@unit-time",
+        "alias": "unit",
+        "userDefined": false
+      },
+      {
+        "text": " until ",
+        "userDefined": false
+      },
+      {
+        "text": "Christmas",
+        "meta": "@holiday",
+        "alias": "holiday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89104ffc-9506-4cba-ae85-03f189d6803c",
+    "data": [
+      {
+        "text": "how long until ",
+        "userDefined": false
+      },
+      {
+        "text": "Thanksgiving",
+        "meta": "@holiday",
+        "alias": "holiday",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14cd174e-4abe-4b1c-a805-3795a4d78a03",
+    "data": [
+      {
+        "text": "check how ",
+        "userDefined": false
+      },
+      {
+        "text": "many",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "months",
+        "meta": "@unit-time",
+        "alias": "unit",
+        "userDefined": false
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": false
+      },
+      {
+        "text": " until next ",
+        "userDefined": false
+      },
+      {
+        "text": "Independence Day",
+        "meta": "@holiday",
+        "alias": "holiday",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1929fda-beb4-416d-813c-c4b920e9fcc9",
+    "data": [
+      {
+        "text": "how ",
+        "userDefined": false
+      },
+      {
+        "text": "many",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "months",
+        "meta": "@unit-time",
+        "alias": "unit",
+        "userDefined": true
+      },
+      {
+        "text": " until ",
+        "userDefined": false
+      },
+      {
+        "text": "Easter",
+        "meta": "@holiday",
+        "alias": "holiday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83ca647e-035b-4f5e-a44a-26d3464440c3",
+    "data": [
+      {
+        "text": "count the ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "weeks",
+        "meta": "@unit-time",
+        "alias": "unit",
+        "userDefined": false
+      },
+      {
+        "text": " until ",
+        "userDefined": false
+      },
+      {
+        "text": "Valentine\u0027s Day",
+        "meta": "@holiday",
+        "alias": "holiday",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "716e5e40-1513-4c65-8774-b2b1647be6f8",
+    "data": [
+      {
+        "text": "count ",
+        "userDefined": false
+      },
+      {
+        "text": "days",
+        "meta": "@unit-time",
+        "alias": "unit",
+        "userDefined": false
+      },
+      {
+        "text": " until ",
+        "userDefined": false
+      },
+      {
+        "text": "Thanksgiving",
+        "meta": "@holiday",
+        "alias": "holiday",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "125537ca-d709-4519-8c5a-f2feea3d82bb",
+    "data": [
+      {
+        "text": "tell me how ",
+        "userDefined": false
+      },
+      {
+        "text": "many",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "seconds",
+        "meta": "@unit-time",
+        "alias": "unit",
+        "userDefined": true
+      },
+      {
+        "text": " until ",
+        "userDefined": false
+      },
+      {
+        "text": "Halloween",
+        "meta": "@holiday",
+        "alias": "holiday",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

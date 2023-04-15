@@ -1,0 +1,9 @@
+{
+  "id": "a338baa8-28da-46bb-9f7d-21dd034770d9",
+  "name": "time-zone",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,89 @@
+[
+  {
+    "id": "7e70b2e9-843e-4917-8eb0-09c2c98faf9a",
+    "data": [
+      {
+        "text": "on the ",
+        "userDefined": false
+      },
+      {
+        "text": "road",
+        "meta": "@disaster-earthquake-situation",
+        "alias": "disaster-earthquake-situation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d096d6b-a305-4ba4-a70d-2d6ddb678eb9",
+    "data": [
+      {
+        "text": "i am on the ",
+        "userDefined": false
+      },
+      {
+        "text": "street",
+        "meta": "@disaster-earthquake-situation",
+        "alias": "disaster-earthquake-situation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0997f2ce-6ed2-4117-aba5-94857925f3d9",
+    "data": [
+      {
+        "text": "outdoors",
+        "meta": "@disaster-earthquake-situation",
+        "alias": "disaster-earthquake-situation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "856523b4-0f2a-4f9c-aea2-355727c9ef26",
+    "data": [
+      {
+        "text": "outdoor",
+        "meta": "@disaster-earthquake-situation",
+        "alias": "disaster-earthquake-situation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1023f072-a1ef-4364-82c7-4f675b414806",
+    "data": [
+      {
+        "text": "we are ",
+        "userDefined": false
+      },
+      {
+        "text": "outdoors",
+        "meta": "@disaster-earthquake-situation",
+        "alias": "disaster-earthquake-situation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

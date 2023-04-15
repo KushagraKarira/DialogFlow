@@ -1,0 +1,49 @@
+{
+  "id": "857fb947-c10d-4ae1-a946-139e325707d0",
+  "name": "device.settings.onoff - context:device-settings-on-off",
+  "auto": true,
+  "contexts": [
+    "device-switch-on-off"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "#device-switch-on-off.intent_action",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9fd2ed2b-9185-46c4-9c82-0b10766d6d83",
+          "name": "module",
+          "required": false,
+          "dataType": "@device-module",
+          "value": "$module",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

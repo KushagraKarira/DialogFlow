@@ -1,0 +1,36 @@
+{
+  "id": "6f0f4568-43db-4d3b-83d2-c31c6dc760f7",
+  "name": "do you sometimes have to be unhappy to be happy later",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I don\u0027t think so, but maybe that way we appreciate it more.",
+            "Probably not, but I think that it\u0027s difficult to always be happy"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

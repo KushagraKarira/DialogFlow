@@ -1,0 +1,145 @@
+[
+  {
+    "id": "7590c7b6-d125-40d6-89a6-3ce4989f79c4",
+    "data": [
+      {
+        "text": "what OS do I use",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "daa08bbe-e6d9-4b6b-9c76-2f65cb5138a0",
+    "data": [
+      {
+        "text": "what is my operational system",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "746187ac-86dd-45b7-8817-ab2af2b384e8",
+    "data": [
+      {
+        "text": "what Andriod version do I have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46f63d80-a1d5-4490-8d0a-726e84647162",
+    "data": [
+      {
+        "text": "check my OS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39fd04e3-3056-4646-a099-167b48a970e0",
+    "data": [
+      {
+        "text": "my Android version",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62178099-0bb6-4368-ae09-430062a405fb",
+    "data": [
+      {
+        "text": "check operational system",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c8b97a3-ae72-44bc-bf64-eb7922772213",
+    "data": [
+      {
+        "text": "what OS version do I have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77ad3a77-fad6-412d-bb96-fe2ef62dd0ed",
+    "data": [
+      {
+        "text": "what OS am I running",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2107514b-4d68-4903-b651-aebd1de46d41",
+    "data": [
+      {
+        "text": "software version",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11400f86-a0c8-475d-b7db-c059e0b50aec",
+    "data": [
+      {
+        "text": "check OS version",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f72e60de-29fc-45d9-a624-a3dfd24c12e4",
+    "data": [
+      {
+        "text": "check my iOS version",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

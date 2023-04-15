@@ -1,0 +1,90 @@
+[
+  {
+    "id": "c2d4fbe6-66a7-4938-bb74-0c333fa2cfbc",
+    "data": [
+      {
+        "text": "Tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "more",
+        "userDefined": true
+      },
+      {
+        "text": " about ",
+        "userDefined": false
+      },
+      {
+        "text": "Drupal8",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08d69f84-f4d2-4378-9e3d-350f8d374a2c",
+    "data": [
+      {
+        "text": "What about ",
+        "userDefined": false
+      },
+      {
+        "text": "drupal?",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7b3cefa-9a5a-4eb2-ac6b-73122e951656",
+    "data": [
+      {
+        "text": "about ",
+        "userDefined": false
+      },
+      {
+        "text": "laravel",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a35162d3-9d86-4334-8e99-1d2dfa9cfa8b",
+    "data": [
+      {
+        "text": "Can you tell about  ",
+        "userDefined": false
+      },
+      {
+        "text": "course",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

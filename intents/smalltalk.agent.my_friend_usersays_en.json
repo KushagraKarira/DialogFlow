@@ -1,0 +1,919 @@
+[
+  {
+    "id": "0dbe4133-608e-4958-b4c5-e8ec2404e186",
+    "data": [
+      {
+        "text": "be my ",
+        "userDefined": false
+      },
+      {
+        "text": "friend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "add67c83-cfda-47ab-a2f7-b2deaec5e3db",
+    "data": [
+      {
+        "text": "you and me ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "friends",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2184902b-618d-4e44-a9d4-a62fc0c27c43",
+    "data": [
+      {
+        "text": "I want you to be my ",
+        "userDefined": false
+      },
+      {
+        "text": "friend",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b040a35d-3c7b-48a9-9829-05ad97f35fd6",
+    "data": [
+      {
+        "text": "you\u0027re my childhood ",
+        "userDefined": false
+      },
+      {
+        "text": "friend",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "467d5391-8ac3-4e20-b45d-3f38a86aa5f3",
+    "data": [
+      {
+        "text": "will",
+        "userDefined": false
+      },
+      {
+        "text": " you be my ",
+        "userDefined": false
+      },
+      {
+        "text": "best",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "friend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f29336d-1037-4562-a82a-aa7a0a5f865e",
+    "data": [
+      {
+        "text": "can ",
+        "userDefined": false
+      },
+      {
+        "text": "we",
+        "userDefined": false
+      },
+      {
+        "text": " be ",
+        "userDefined": false
+      },
+      {
+        "text": "friends",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69e7592c-fd3f-4bfb-9d81-40f025321f9d",
+    "data": [
+      {
+        "text": "you ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "userDefined": false
+      },
+      {
+        "text": " my only ",
+        "userDefined": false
+      },
+      {
+        "text": "friend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "710a2078-0f1a-4253-ae50-e156bc2c794d",
+    "data": [
+      {
+        "text": "can you be my ",
+        "userDefined": false
+      },
+      {
+        "text": "friend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02fcb67e-5f05-47c0-86cb-0b6fa81bbc15",
+    "data": [
+      {
+        "text": "are",
+        "userDefined": false
+      },
+      {
+        "text": " you my ",
+        "userDefined": false
+      },
+      {
+        "text": "best",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "friend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1220570f-c8fb-45b3-97db-8b858940e372",
+    "data": [
+      {
+        "text": "I want to have a ",
+        "userDefined": false
+      },
+      {
+        "text": "friend",
+        "userDefined": false
+      },
+      {
+        "text": " like you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "105ed7a4-f62e-4f52-ac74-2bd6bbaa13da",
+    "data": [
+      {
+        "text": "can you be my ",
+        "userDefined": false
+      },
+      {
+        "text": "best",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "friend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6f6b97e-e2f6-42ef-bbc0-b32b28d62f56",
+    "data": [
+      {
+        "text": "can we be best friends",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5fc79a8-f386-479d-8bd1-4f5c1c32b6df",
+    "data": [
+      {
+        "text": "you ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "friend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1fe07a95-5ff2-4ba9-a49b-2b23afc9d372",
+    "data": [
+      {
+        "text": "want to be my ",
+        "userDefined": false
+      },
+      {
+        "text": "friend",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9fdc1eda-9f0c-4ecb-af64-f429dcc33a41",
+    "data": [
+      {
+        "text": "you ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "userDefined": true
+      },
+      {
+        "text": " my bestie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "628b4aa8-da69-418c-a74b-75fce97b8035",
+    "data": [
+      {
+        "text": "we",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "best",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "friends",
+        "userDefined": true
+      },
+      {
+        "text": " ever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fed103db-f7e1-4d32-b797-4272036e855a",
+    "data": [
+      {
+        "text": "will",
+        "userDefined": false
+      },
+      {
+        "text": " you be my ",
+        "userDefined": false
+      },
+      {
+        "text": "friend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "babe9f77-5ec4-4e05-bb76-91d668dee5f3",
+    "data": [
+      {
+        "text": "I",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "am",
+        "userDefined": true
+      },
+      {
+        "text": " your ",
+        "userDefined": false
+      },
+      {
+        "text": "friend",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "782b5eea-cd59-4ad6-8f3e-a3fbfefd19e0",
+    "data": [
+      {
+        "text": "are",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "we",
+        "userDefined": false
+      },
+      {
+        "text": " still ",
+        "userDefined": false
+      },
+      {
+        "text": "friends",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50f6d72e-ae70-4030-89f6-cc03cafc0643",
+    "data": [
+      {
+        "text": "are",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "we",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "best",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "friends",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c405b4d-40df-4d52-b3b6-10bb1e30da25",
+    "data": [
+      {
+        "text": "be my ",
+        "userDefined": false
+      },
+      {
+        "text": "best",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "friend",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a039b39-3627-4823-a772-3e4f903c3eac",
+    "data": [
+      {
+        "text": "you ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "userDefined": true
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "best",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "friend",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2debc7f2-7be2-4005-a5f1-c226b3decff9",
+    "data": [
+      {
+        "text": "can ",
+        "userDefined": false
+      },
+      {
+        "text": "we",
+        "userDefined": true
+      },
+      {
+        "text": " be ",
+        "userDefined": false
+      },
+      {
+        "text": "best",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "friends",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d49aa54-73f3-4e6e-bea1-da65cb591742",
+    "data": [
+      {
+        "text": "let\u0027s be ",
+        "userDefined": false
+      },
+      {
+        "text": "friends",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c34dda0-8a1c-4cd6-b605-2368c1fef063",
+    "data": [
+      {
+        "text": "you ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "userDefined": true
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "friend",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3bacc6ef-43ff-482e-9a2b-23021b0746f5",
+    "data": [
+      {
+        "text": "are",
+        "userDefined": false
+      },
+      {
+        "text": " you my ",
+        "userDefined": false
+      },
+      {
+        "text": "friend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6e0306c-0cdc-4b24-b0ec-3184ac2478ba",
+    "data": [
+      {
+        "text": "do you want to be my ",
+        "userDefined": false
+      },
+      {
+        "text": "friend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "269abbd7-ac3b-4d9c-b7b4-fcd2e1401bb8",
+    "data": [
+      {
+        "text": "would you like to be my ",
+        "userDefined": false
+      },
+      {
+        "text": "friend",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63b5404a-fd5f-4b10-bd5f-cd94f7a15b38",
+    "data": [
+      {
+        "text": "we",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "friends",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3aa64c4a-057a-4dbd-9db7-99cc89a8708d",
+    "data": [
+      {
+        "text": "could you be my ",
+        "userDefined": false
+      },
+      {
+        "text": "friend",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41a2b5f5-4ed8-4356-89db-eb8438b21e68",
+    "data": [
+      {
+        "text": "are",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "we",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "friends",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6847b103-0f69-4688-8c16-403ce8f020d1",
+    "data": [
+      {
+        "text": "you ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "friend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82773e91-2190-4b26-a171-5b5a55a94cd0",
+    "data": [
+      {
+        "text": "we",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "best",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "friends",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2954d762-3800-443f-ab68-f77e27714220",
+    "data": [
+      {
+        "text": "I",
+        "userDefined": true
+      },
+      {
+        "text": " want ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "be",
+        "userDefined": true
+      },
+      {
+        "text": " your ",
+        "userDefined": false
+      },
+      {
+        "text": "friend",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30ef8cba-4170-4441-adf8-16b2a13a5406",
+    "data": [
+      {
+        "text": "would you be my ",
+        "userDefined": false
+      },
+      {
+        "text": "friend",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "624c4cd9-3a33-4dec-864a-1a2ad6ca0f6f",
+    "data": [
+      {
+        "text": "do you want to be my ",
+        "userDefined": false
+      },
+      {
+        "text": "best",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "friend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2bc6a52f-bd22-4047-b27d-5910e2f0f64f",
+    "data": [
+      {
+        "text": "you\u0027re my dear ",
+        "userDefined": false
+      },
+      {
+        "text": "friend",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

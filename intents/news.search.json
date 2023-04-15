@@ -1,0 +1,112 @@
+{
+  "id": "27b82b25-a6d9-411f-b5fa-a4baaf9b3971",
+  "name": "news.search",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "news.search",
+      "affectedContexts": [
+        {
+          "name": "news-search",
+          "lifespan": 3
+        },
+        {
+          "name": "newssearch-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e707584a-3b3b-4079-b8c4-fdc83f12808b",
+          "name": "keyword",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$keyword",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "416822ec-8883-41eb-bf06-361bcc2ad816",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "29146543-d052-4e9a-bab0-fa13e70ed8cb",
+          "name": "category",
+          "required": false,
+          "dataType": "@topic",
+          "value": "$category",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "463965dd-c714-473e-8209-ead147d6a313",
+          "name": "source",
+          "required": false,
+          "dataType": "@news-source",
+          "value": "$source",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "083820fd-ca12-431c-b2c6-d8b0e76f3a49",
+          "name": "sort",
+          "required": false,
+          "dataType": "@news-sort",
+          "value": "$sort",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

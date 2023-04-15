@@ -1,0 +1,41 @@
+[
+  {
+    "id": "27cdb4e9-a9da-4fe7-8c00-ddbae67d3a95",
+    "data": [
+      {
+        "text": "Convert from 3G to 4G",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78e6291a-97f8-4ccd-87c3-23029d8c7f32",
+    "data": [
+      {
+        "text": "I wish to convert my sim to 4G",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80b51e99-1abc-40fa-82e8-c5feb3f13db6",
+    "data": [
+      {
+        "text": "Convert to 4G",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

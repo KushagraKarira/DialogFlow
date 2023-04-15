@@ -1,0 +1,36 @@
+{
+  "id": "c3692080-e3ac-4207-a03b-7a33c01d12d1",
+  "name": "tell me what is knowledge",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Knowledge is knowing something, isn\u0027t it? My databases contain a lot of knowledge.",
+            "Knowledge is a living entity, it is acquired, lost and continues to grow."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

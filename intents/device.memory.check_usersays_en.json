@@ -1,0 +1,183 @@
+[
+  {
+    "id": "f13424f8-5795-45b0-ba4a-0f918d891b6c",
+    "data": [
+      {
+        "text": "check available space on my device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5fbf42cb-d07d-4061-9a75-308a4549eb81",
+    "data": [
+      {
+        "text": "check device memory",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f994827a-e429-4c77-b45e-d1542233681a",
+    "data": [
+      {
+        "text": "how much free memory do I have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c18aa24-482d-4477-bfad-19b0289b7b8f",
+    "data": [
+      {
+        "text": "check storage space on my device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5302fb4-c0df-4ba9-81b3-62f276dba8fb",
+    "data": [
+      {
+        "text": "do I have enough space",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a90893f-83c7-49eb-8ede-e2460638b602",
+    "data": [
+      {
+        "text": "memory left",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "414e24aa-eed1-4a26-9bdf-e385b021b126",
+    "data": [
+      {
+        "text": "how much space is left",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc8bf165-63a6-4262-ab21-2b7791e16fc1",
+    "data": [
+      {
+        "text": "how much space do I have left",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d4653c3-fa7c-4303-b99b-8bacb4bcf06d",
+    "data": [
+      {
+        "text": "device memory check",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de288f26-c77c-4d79-bf58-6c43d2286f83",
+    "data": [
+      {
+        "text": "how is my storage capacity looking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b61deafe-e320-45d2-9be3-815a19f41189",
+    "data": [
+      {
+        "text": "space left on my device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d36c9fd8-dc79-47cb-a70c-e1973db6497c",
+    "data": [
+      {
+        "text": "device memory capacity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c32a0474-4f6f-4e4b-ab54-e3dcb5f93587",
+    "data": [
+      {
+        "text": "how much ",
+        "userDefined": false
+      },
+      {
+        "text": "space",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "left",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

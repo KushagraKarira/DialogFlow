@@ -1,0 +1,92 @@
+{
+  "id": "aa179bd4-2ed7-4001-8a77-f9f9b091c8c6",
+  "name": "player\u0027s average against country in match type",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5eff3aa0-f58e-44c7-9b5c-b0d2b15e04e6",
+          "name": "player",
+          "required": false,
+          "dataType": "@player",
+          "value": "$player",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2b4758cd-922b-4dd8-ab6e-a0c26036779a",
+          "name": "team",
+          "required": false,
+          "dataType": "@team",
+          "value": "$team",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "618d8045-b179-4fcb-ae3d-e4dfcc515965",
+          "name": "match-type",
+          "required": false,
+          "dataType": "@match-type",
+          "value": "$match-type",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "5bbf60f4-adcb-48bc-a059-a6aad51087b6",
+          "name": "player1",
+          "required": false,
+          "dataType": "@player",
+          "value": "$player1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "http://stats.espncricinfo.com/ci/engine/player/{$player}.html?class\u003d{$match-type};filter\u003dadvanced;opposition\u003d{$team};orderby\u003ddefault;template\u003dresults;type\u003dallround"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

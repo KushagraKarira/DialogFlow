@@ -1,0 +1,40 @@
+[
+  {
+    "value": "1 Gb",
+    "synonyms": [
+      "1 Gb"
+    ]
+  },
+  {
+    "value": "10 Gb",
+    "synonyms": [
+      "10 Gb"
+    ]
+  },
+  {
+    "value": "2 Gb",
+    "synonyms": [
+      "2 Gb"
+    ]
+  },
+  {
+    "value": "3 Gb",
+    "synonyms": [
+      "3 Gb"
+    ]
+  },
+  {
+    "value": "5 Gb",
+    "synonyms": [
+      "5 Gb"
+    ]
+  },
+  {
+    "value": "Unlimited",
+    "synonyms": [
+      "Unlimited",
+      "unlimited amount of data",
+      "unlimited data"
+    ]
+  }
+]

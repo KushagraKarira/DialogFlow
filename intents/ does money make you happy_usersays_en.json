@@ -1,0 +1,41 @@
+[
+  {
+    "id": "22d14afa-4808-40cd-b65f-3cce524c46df",
+    "data": [
+      {
+        "text": " does money make you happy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a73f6492-e3aa-444d-a7f3-e21378d5c82e",
+    "data": [
+      {
+        "text": "does money make one happy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7aba3bf9-36ea-435c-be6f-3e5a7245f107",
+    "data": [
+      {
+        "text": "can money buy happiness",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

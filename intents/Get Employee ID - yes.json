@@ -1,0 +1,40 @@
+{
+  "id": "3a60eb10-ee88-4801-bd0d-8e9b35418321",
+  "parentId": "6b28dd52-364c-406e-a97e-df3573c74961",
+  "rootParentId": "6b28dd52-364c-406e-a97e-df3573c74961",
+  "name": "Get Employee ID - yes",
+  "auto": true,
+  "contexts": [
+    "GetEmployeeID-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetEmployeeID.GetEmployeeID-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great! How can I help you?",
+            "Thanks for confirming. Please tell me how I can help you."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

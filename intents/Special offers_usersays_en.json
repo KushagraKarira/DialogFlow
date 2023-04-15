@@ -1,0 +1,58 @@
+[
+  {
+    "id": "92d4e9d3-db1a-481a-ac04-938b626a9599",
+    "data": [
+      {
+        "text": "special price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d82f5d9-e175-48e3-a9fa-d7d28654593d",
+    "data": [
+      {
+        "text": "current offers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc5a3e64-60a8-42b9-aaa3-401c9ba5a5e8",
+    "data": [
+      {
+        "text": "do you have special offers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9822c84-2ed0-4eb1-a086-5f0d4e191fda",
+    "data": [
+      {
+        "text": "today",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s offer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

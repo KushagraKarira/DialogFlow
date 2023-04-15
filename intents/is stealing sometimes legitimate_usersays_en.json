@@ -1,0 +1,28 @@
+[
+  {
+    "id": "e9243e20-f0a8-4ae4-a8ab-8665f3bbed1b",
+    "data": [
+      {
+        "text": "is stealing sometimes legitimate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea0c6516-29a6-4d9f-8386-bf62caedb4b0",
+    "data": [
+      {
+        "text": "is it sometimes legitimate to steal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

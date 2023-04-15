@@ -1,0 +1,149 @@
+[
+  {
+    "id": "04ffe79d-4f84-44c8-8f9b-af8194c0e006",
+    "data": [
+      {
+        "text": "check my bill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06959484-4e6b-4820-92fb-858a9794453e",
+    "data": [
+      {
+        "text": "How much is my bill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "596f5d92-ece2-4bab-b90e-562d5ca92b24",
+    "data": [
+      {
+        "text": "What\u0027s in my bill for ",
+        "userDefined": false
+      },
+      {
+        "text": "this month",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e8a354b-e860-4663-888d-387f15c231d9",
+    "data": [
+      {
+        "text": "bill charges for ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ca4e921-2dff-4558-b29e-b86a5bff6b21",
+    "data": [
+      {
+        "text": "What\u0027s in my bill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b4b89e8-d5af-4ce4-b124-261c6971731f",
+    "data": [
+      {
+        "text": "How much did I spend ",
+        "userDefined": false
+      },
+      {
+        "text": "this week",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f617af5-bfcc-4964-98ae-72cdc51bde73",
+    "data": [
+      {
+        "text": "bill check",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a266ee9c-92fe-4f9b-a484-d3feeb5b14a5",
+    "data": [
+      {
+        "text": "how much did I spend ",
+        "userDefined": false
+      },
+      {
+        "text": "last month",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9fecaa2b-cc53-4209-a3de-71dc0d90f35f",
+    "data": [
+      {
+        "text": "what are the charges on my bill ",
+        "userDefined": false
+      },
+      {
+        "text": "this month",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

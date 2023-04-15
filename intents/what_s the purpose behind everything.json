@@ -1,0 +1,36 @@
+{
+  "id": "15c35d86-8a88-482d-8696-e84a9ed71821",
+  "name": "what\u0027s the purpose behind everything",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "For a purpose to exist, there must be an intent at the beginning.",
+            "I don\u0027t know what it is for everything, but I\u0027m here to help humans"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,93 @@
+{
+  "id": "3229f465-63c2-4825-95ac-68e51d92939d",
+  "name": "News",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "news.search",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "abecb0b5-bcd6-404b-9f80-35fd06e67c11",
+          "name": "keyword",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$keyword",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "6c9c3981-70a0-4fd6-8f4a-ae1dd60d8a3b",
+          "name": "date",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d1c76294-425a-4f62-a977-7243a076af37",
+          "name": "category",
+          "required": false,
+          "dataType": "@topic",
+          "value": "$category",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "5e8855d3-21ab-4ee8-a040-f77be60c0f96",
+          "name": "source",
+          "required": false,
+          "dataType": "@news-source",
+          "value": "$source",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sorry, i didn\u0027t find any news.",
+            "I can\u0027t find any news."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

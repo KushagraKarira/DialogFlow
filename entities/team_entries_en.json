@@ -1,0 +1,110 @@
+[
+  {
+    "value": "1",
+    "synonyms": [
+      "england",
+      "english",
+      "pommies",
+      "poms"
+    ]
+  },
+  {
+    "value": "2",
+    "synonyms": [
+      "Australian",
+      "aus",
+      "aussie",
+      "aussies",
+      "australia",
+      "australian",
+      "kangaroos",
+      "oz"
+    ]
+  },
+  {
+    "value": "25",
+    "synonyms": [
+      "25",
+      "BAN",
+      "Ban",
+      "ban",
+      "bangladesh",
+      "bangladeshi"
+    ]
+  },
+  {
+    "value": "3",
+    "synonyms": [
+      "SA",
+      "proteas",
+      "s africa",
+      "sa",
+      "south africa",
+      "south african",
+      "south africans"
+    ]
+  },
+  {
+    "value": "4",
+    "synonyms": [
+      "WI",
+      "caribbean",
+      "west indies",
+      "wi",
+      "windies"
+    ]
+  },
+  {
+    "value": "5",
+    "synonyms": [
+      "Kiwi",
+      "NZ",
+      "kiwi",
+      "kiwis",
+      "new zealand",
+      "nz"
+    ]
+  },
+  {
+    "value": "6",
+    "synonyms": [
+      "IND",
+      "ind",
+      "india",
+      "indian",
+      "indians"
+    ]
+  },
+  {
+    "value": "7",
+    "synonyms": [
+      "PAK",
+      "Pak",
+      "pak",
+      "paki",
+      "pakistan",
+      "pakistani"
+    ]
+  },
+  {
+    "value": "8",
+    "synonyms": [
+      "SL",
+      "lankan",
+      "lankans",
+      "s lanka",
+      "sl",
+      "sri lanka"
+    ]
+  },
+  {
+    "value": "9",
+    "synonyms": [
+      "ZIM",
+      "Zim",
+      "zim",
+      "zimbabwe",
+      "zimbabwean"
+    ]
+  }
+]

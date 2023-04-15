@@ -1,0 +1,123 @@
+[
+  {
+    "id": "c95c7fac-56f3-4147-a322-4ed4430b1804",
+    "data": [
+      {
+        "text": "change to ",
+        "userDefined": false
+      },
+      {
+        "text": "prepaid",
+        "meta": "@plan",
+        "alias": "plan-from",
+        "userDefined": false
+      },
+      {
+        "text": " plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d75ebe6-d6d3-42c7-80bd-d16508ee79a0",
+    "data": [
+      {
+        "text": "can I change my plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa1d766f-3f24-4d64-bd2a-2fbe1d6b29bf",
+    "data": [
+      {
+        "text": "change plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d01ba361-e536-4148-8ac6-990ad5201b0e",
+    "data": [
+      {
+        "text": "I don\u0027t like my plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08ac8e05-d809-41c6-8465-ed7146db925d",
+    "data": [
+      {
+        "text": "I want to change from ",
+        "userDefined": false
+      },
+      {
+        "text": "prepaid",
+        "meta": "@plan",
+        "alias": "plan-from",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "postpaid",
+        "meta": "@plan",
+        "alias": "plan-to",
+        "userDefined": false
+      },
+      {
+        "text": " plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e780aae3-baa0-4240-bf1f-c9ce650be738",
+    "data": [
+      {
+        "text": "plan change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4dba9745-90f1-402d-b3be-4df934b7b778",
+    "data": [
+      {
+        "text": "let\u0027s change my plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

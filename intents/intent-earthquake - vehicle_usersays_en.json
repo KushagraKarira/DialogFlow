@@ -1,0 +1,112 @@
+[
+  {
+    "id": "cc728c1c-c01b-40cb-a159-a9405a859b32",
+    "data": [
+      {
+        "text": "vehicle",
+        "meta": "@disaster-earthquake-situation",
+        "alias": "disaster-earthquake-situation",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a366b75-8e8f-4bac-8474-ff88d5ed4fe5",
+    "data": [
+      {
+        "text": "in a moving ",
+        "userDefined": false
+      },
+      {
+        "text": "vehicle",
+        "meta": "@disaster-earthquake-situation",
+        "alias": "disaster-earthquake-situation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a6731a1-1a0e-4ce9-9da3-7d37bec30004",
+    "data": [
+      {
+        "text": "riding my ",
+        "userDefined": false
+      },
+      {
+        "text": "bike",
+        "meta": "@disaster-earthquake-situation",
+        "alias": "disaster-earthquake-situation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ac74ae8-a333-4eec-827f-8fe0243dd484",
+    "data": [
+      {
+        "text": "on my ",
+        "userDefined": false
+      },
+      {
+        "text": "motorcycle",
+        "meta": "@disaster-earthquake-situation",
+        "alias": "disaster-earthquake-situation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2412e925-34b3-40aa-8a6a-cce4e1fc84a6",
+    "data": [
+      {
+        "text": "i am in my ",
+        "userDefined": false
+      },
+      {
+        "text": "car",
+        "meta": "@disaster-earthquake-situation",
+        "alias": "disaster-earthquake-situation",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f85dc57e-a0ec-49c0-ae1a-33e9496fb33e",
+    "data": [
+      {
+        "text": "i am driving my ",
+        "userDefined": false
+      },
+      {
+        "text": "car",
+        "meta": "@disaster-earthquake-situation",
+        "alias": "disaster-earthquake-situation",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

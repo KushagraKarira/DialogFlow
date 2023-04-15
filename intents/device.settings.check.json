@@ -1,0 +1,61 @@
+{
+  "id": "4b9232c5-9444-4d49-9d59-3405a44bc4c0",
+  "name": "device.settings.check",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "device.settings.check",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5d552bb1-8d74-4c5c-92d1-2b448d792e5e",
+          "name": "module",
+          "required": false,
+          "dataType": "@device-module",
+          "value": "$module",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "86d59ef6-58f9-42e5-890c-62ad7a5b9fb9",
+          "name": "action",
+          "required": false,
+          "dataType": "@device-action",
+          "value": "$action",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

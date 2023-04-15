@@ -1,0 +1,471 @@
+[
+  {
+    "id": "a599e43b-8012-4cbc-80bc-279e0aa6153e",
+    "data": [
+      {
+        "text": "what time is it in ",
+        "userDefined": false
+      },
+      {
+        "text": "LA",
+        "meta": "@sys.location",
+        "alias": "location-to",
+        "userDefined": true
+      },
+      {
+        "text": " when it\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "midday",
+        "meta": "@sys.time",
+        "alias": "time-from",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Moscow",
+        "meta": "@sys.location",
+        "alias": "location-from",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "697de75c-2066-4d2f-99c2-ee73adc31ffc",
+    "data": [
+      {
+        "text": "can",
+        "userDefined": false
+      },
+      {
+        "text": " you convert time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10ce929e-2a71-4f9e-9f71-c7953fe12083",
+    "data": [
+      {
+        "text": "convert time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8fe0474-1a67-4f54-a72b-d3ebb993a4f4",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "time",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Moscow",
+        "meta": "@sys.location",
+        "alias": "location-to",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "when",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "5 am",
+        "meta": "@sys.time",
+        "alias": "time-from",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Palo Alto",
+        "meta": "@sys.location",
+        "alias": "location-from",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a51b28b9-8c1a-4f8d-9050-5dc292df19c5",
+    "data": [
+      {
+        "text": "what time is in ",
+        "userDefined": false
+      },
+      {
+        "text": "France",
+        "meta": "@sys.location",
+        "alias": "location-to",
+        "userDefined": true
+      },
+      {
+        "text": " when ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "6 am",
+        "meta": "@sys.time",
+        "alias": "time-from",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portugal",
+        "meta": "@sys.location",
+        "alias": "location-from",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f06756a-f7e0-4455-8b99-4c4738d35816",
+    "data": [
+      {
+        "text": "convert ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "meta": "@sys.location",
+        "alias": "location-from",
+        "userDefined": true
+      },
+      {
+        "text": " time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0e297bf-507e-4548-b7bc-ab5c531fd33b",
+    "data": [
+      {
+        "text": "what time is it in ",
+        "userDefined": false
+      },
+      {
+        "text": "Miami",
+        "meta": "@sys.location",
+        "alias": "location-to",
+        "userDefined": true
+      },
+      {
+        "text": " when it\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "11 am",
+        "meta": "@sys.time",
+        "alias": "time-from",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Tbilisi",
+        "meta": "@sys.location",
+        "alias": "location-from",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11cd9f05-64ad-4844-b4e0-6ae9b00110b9",
+    "data": [
+      {
+        "text": "when ",
+        "userDefined": false
+      },
+      {
+        "text": "it\u0027s",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "6 am",
+        "meta": "@sys.time",
+        "alias": "time-from",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Moscow",
+        "meta": "@sys.location",
+        "alias": "location-from",
+        "userDefined": true
+      },
+      {
+        "text": " what time is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Tokyo",
+        "meta": "@sys.location",
+        "alias": "location-to",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8a94646-e9ce-4acf-acae-dce18b54fc96",
+    "data": [
+      {
+        "text": "what time is in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "meta": "@sys.location",
+        "alias": "location-to",
+        "userDefined": true
+      },
+      {
+        "text": " when ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "5 pm",
+        "meta": "@sys.time",
+        "alias": "time-from",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "meta": "@sys.location",
+        "alias": "location-from",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7694063e-d3a4-4a24-8cd0-161d8c16009a",
+    "data": [
+      {
+        "text": "I want to convert time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66fe90df-a5cc-4c72-8d0c-92b254d3b242",
+    "data": [
+      {
+        "text": "time converter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62f5bdbe-83e8-4c07-bead-c524ed5c072b",
+    "data": [
+      {
+        "text": "when ",
+        "userDefined": false
+      },
+      {
+        "text": "it\u0027s",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "11 a.m.",
+        "meta": "@sys.time",
+        "alias": "time-from",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "USA",
+        "meta": "@sys.location",
+        "alias": "location-from",
+        "userDefined": true
+      },
+      {
+        "text": " what time is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Australia",
+        "meta": "@sys.location",
+        "alias": "location-to",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "966eafbf-e304-41e4-9248-1e18ea2300bf",
+    "data": [
+      {
+        "text": "convert ",
+        "userDefined": false
+      },
+      {
+        "text": "Moscow",
+        "meta": "@sys.location",
+        "alias": "location-from",
+        "userDefined": true
+      },
+      {
+        "text": " time in ",
+        "userDefined": false
+      },
+      {
+        "text": "Tokyo",
+        "meta": "@sys.location",
+        "alias": "location-to",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

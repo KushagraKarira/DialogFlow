@@ -1,0 +1,70 @@
+{
+  "id": "bf48d414-ce3a-4f16-b941-df9e66d99b9e",
+  "name": "timer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "timer.set",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fb37b404-11b5-483b-8452-2400446f13f4",
+          "name": "unit-time",
+          "required": false,
+          "dataType": "@unit-time",
+          "value": "$unit-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a1b59c31-8eac-481e-895a-eeaa83e7a7b0",
+          "name": "seconds",
+          "required": true,
+          "dataType": "@sys.number-integer",
+          "value": "$seconds",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How many seconds?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I set the timer.",
+            "The timer is set."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

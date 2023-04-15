@@ -1,0 +1,49 @@
+{
+  "id": "4d70ba46-353b-4113-9637-72b900096abd",
+  "name": "time - context:time",
+  "auto": true,
+  "contexts": [
+    "time"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "#time.intent_action",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1d47a479-0321-4c3f-abb6-7531eb720a80",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

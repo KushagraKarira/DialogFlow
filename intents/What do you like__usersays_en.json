@@ -1,0 +1,28 @@
+[
+  {
+    "id": "5a0aecf6-e0bb-4eb6-9770-c2d9a0a4e453",
+    "data": [
+      {
+        "text": "What do you like?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1aa7063d-757b-4968-8109-b30ace1b0ad3",
+    "data": [
+      {
+        "text": "Do you like?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

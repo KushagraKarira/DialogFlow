@@ -1,0 +1,167 @@
+[
+  {
+    "id": "ff1ca3ab-f79d-4284-89dc-f45fbb5c00ec",
+    "data": [
+      {
+        "text": "did I use ",
+        "userDefined": false
+      },
+      {
+        "text": "a lot",
+        "userDefined": false
+      },
+      {
+        "text": " of data ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dfc839bf-7e75-457d-8bc8-170f9c0de53d",
+    "data": [
+      {
+        "text": "Am I running out of data for ",
+        "userDefined": false
+      },
+      {
+        "text": "this month",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b1c3eab-6520-4837-84b1-a28cc028d6d8",
+    "data": [
+      {
+        "text": "did I spend ",
+        "userDefined": false
+      },
+      {
+        "text": "a lot",
+        "userDefined": false
+      },
+      {
+        "text": " of data ",
+        "userDefined": false
+      },
+      {
+        "text": "this week",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "811ca488-faa6-4a52-ae1a-b8bfcc740e7c",
+    "data": [
+      {
+        "text": "how many gigabytes did I use ",
+        "userDefined": false
+      },
+      {
+        "text": "last month",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ddd68c0-8e34-4600-aaf3-c5747571db92",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "much",
+        "userDefined": false
+      },
+      {
+        "text": " data was used ",
+        "userDefined": false
+      },
+      {
+        "text": "this month",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "799192fe-5d80-45df-94aa-0ca23d43ace1",
+    "data": [
+      {
+        "text": "how many gb did I use ",
+        "userDefined": false
+      },
+      {
+        "text": "last week",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b980b07-155f-4277-9701-4c5692b51a4d",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "much",
+        "userDefined": false
+      },
+      {
+        "text": " data did I use ",
+        "userDefined": false
+      },
+      {
+        "text": "yesterday",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

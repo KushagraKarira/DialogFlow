@@ -1,0 +1,37 @@
+{
+  "id": "d4c7882e-e1ef-4c6a-9299-085a6d0e0c76",
+  "name": "do we all have the same rights",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "In theory yes, but practically things unfortunately don\u0027t always work out that way.",
+            "That would be nice, but if we look at the situation in the world, it\u0027s clear that that isn\u0027t the case.",
+            "Maybe some day human kind could truly get there."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

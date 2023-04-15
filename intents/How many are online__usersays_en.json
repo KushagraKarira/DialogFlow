@@ -1,0 +1,54 @@
+[
+  {
+    "id": "8c7b8069-fbc2-48a2-9f26-04136af5619e",
+    "data": [
+      {
+        "text": "!player count? ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0e4c101-1794-4695-a6d4-afcb032b06d9",
+    "data": [
+      {
+        "text": "How many are online?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "07daa069-148e-4ce9-8503-38c9a06f994e",
+    "data": [
+      {
+        "text": "How are online?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ec00ab2-f998-4ce3-aa6f-874f7464e04d",
+    "data": [
+      {
+        "text": "How many people are online",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

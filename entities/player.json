@@ -1,0 +1,9 @@
+{
+  "id": "4056fb53-d4d2-48f4-8442-591c2845cea9",
+  "name": "player",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

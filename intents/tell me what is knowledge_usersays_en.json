@@ -1,0 +1,80 @@
+[
+  {
+    "id": "2a425815-97c2-4f6c-9f0a-06968e07d2e1",
+    "data": [
+      {
+        "text": "tell me what is knowledge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dfff40ac-c038-409b-bf70-7f9ceadc6013",
+    "data": [
+      {
+        "text": "do you think you could tell me what is knowledge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da349dd5-f1a7-41ec-9cf2-9ed04a48cf4e",
+    "data": [
+      {
+        "text": "tell me what\u0027s knowledge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5259aa0c-26a3-43f8-affa-ed7f6f1fbc0e",
+    "data": [
+      {
+        "text": "what is knowledge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9705be4d-1bd9-47fe-94a3-94c2f7a033be",
+    "data": [
+      {
+        "text": "what\u0027s knowledge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7365e6a9-2946-4c74-9650-03d9ddceeab7",
+    "data": [
+      {
+        "text": "define the knowledge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

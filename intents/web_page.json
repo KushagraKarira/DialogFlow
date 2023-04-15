@@ -1,0 +1,51 @@
+{
+  "id": "780cc5bf-1e12-465c-944b-7c4d8c6fca9f",
+  "name": "web_page",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "web_page",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2e0f75a8-ecb4-43ea-b3c8-2bf63c8e17f7",
+          "name": "url",
+          "required": false,
+          "dataType": "@sys.url",
+          "value": "$url",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here is the web page $url.",
+            "I open $url."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

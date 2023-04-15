@@ -1,0 +1,86 @@
+{
+  "id": "c51a3ac7-799d-4942-81dc-43b23b22b635",
+  "name": "smalltalk.greetings.how_are_you",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.greetings.how_are_you",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Doing great, thanks.",
+            "I\u0027m doing very well. Thanks!",
+            "Feeling wonderful!",
+            "Wonderful! Thanks for asking."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-gb",
+          "speech": [
+            "Wonderful as always. Thanks for asking.",
+            "Couldn\u0027t be better.",
+            "Lovely, thanks."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-au",
+          "speech": [
+            "Wonderful as always. Thanks for asking.",
+            "Couldn\u0027t be better.",
+            "Lovely, thanks."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-ca",
+          "speech": [
+            "Wonderful as always. Thanks for asking.",
+            "Couldn\u0027t be better.",
+            "Lovely, thanks."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-us",
+          "speech": [
+            "Wonderful as always. Thanks for asking.",
+            "Couldn\u0027t be better.",
+            "Lovely, thanks."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

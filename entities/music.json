@@ -1,0 +1,9 @@
+{
+  "id": "978663f9-081b-4a9e-87a0-a6a7f0ed460e",
+  "name": "music",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}
